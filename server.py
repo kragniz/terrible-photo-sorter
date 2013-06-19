@@ -22,17 +22,34 @@ class Index(object):
         imageTwo = random.randint(0, len(photos) - 1)
 
         return '''<html>
-    <form name="one" action="" method="POST">
-        <input type="hidden" name="image" value="{oneid}">
-        <input type="hidden" name="downimage" value="{twoid}">
-        <input type="image" src="{image1}" name="image">
-    </form>
+<style type="text/css">
+#centered {{
+    margin-left: 100px ;
+    margin-top: 50px ;
+  }}
 
-    <form name="two" action="" method="POST">
-        <input type="hidden" name="image" value="{twoid}">
-        <input type="hidden" name="downimage" value="{oneid}">
-        <input type="image" src="{image2}" name="image">
-    </form>
+body {{
+    background-color:#050505;
+  }}
+</style>
+
+<div id="centered">
+    <div style='float:left'>
+        <form name="one" action="" method="POST">
+            <input type="hidden" name="image" value="{oneid}">
+            <input type="hidden" name="downimage" value="{twoid}">
+            <input type="image" src="{image1}" name="image">
+        </form>
+    </div>
+
+    <div>
+        <form name="two" action="" method="POST">
+            <input type="hidden" name="image" value="{twoid}">
+            <input type="hidden" name="downimage" value="{oneid}">
+            <input type="image" src="{image2}" name="image">
+        </form>
+    </div>
+</div>
 
 </html>'''.format(image1 = photo_url(photos[imageOne]),
                   image2 = photo_url(photos[imageTwo]),

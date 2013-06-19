@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+import flickrapi
+import json
+
+api_key = ''
+flickr = flickrapi.FlickrAPI(api_key)
+sets = flickr.photosets_getList(user_id='96822206@N03')
+
+if __name__ == "__main__":
+    images = []
+    for child in flickr.walk_set('72157634176108298'):
+        p = dict(child.attrib)
+        p['up'] = 0
+        p['down'] = 0
+        images += [p]
+        print p['title']
+    with open('photos.db', 'w') as f:
+        print json.dump(images, f)

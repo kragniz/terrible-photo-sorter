@@ -14,12 +14,29 @@ def photo_url(item):
 print photo_url(photos[0])
 
 urls = (
-    '/', 'index'
+    '/', 'Index',
 )
 
-class index:
+class Index(object):
     def GET(self):
-        return "Hello, world!"
+        return '''<html>
+<form name="one" action="" method="POST">
+<input type="hidden" name="image" value="one">
+<input type="image" src="{image1}" name="image">
+</form>
+
+<form name="two" action="" method="POST">
+<input type="hidden" name="image" value="two">
+<input type="image" src="{image2}" name="image">
+</form>
+
+</html>'''.format(image1 = photo_url(photos[34]),
+                  image2 = photo_url(photos[1000]))
+
+    def POST(self):
+        s = web.input()
+        print s.image
+        return 'hello there my friend, you clicked image %s' % s.image
 
 if __name__ == "__main__":
     app = web.application(urls, globals())

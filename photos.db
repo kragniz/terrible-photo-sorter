@@ -7,7 +7,7 @@
         "secret": "fca67d63e9",
         "server": "3683",
         "title": "IMG_0053",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -30,7 +30,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9058478241",
         "isprimary": "0",
@@ -47,10 +47,10 @@
         "secret": "c7ddd4368a",
         "server": "7428",
         "title": "IMG_0057",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9058462853",
         "isprimary": "0",
@@ -67,10 +67,10 @@
         "secret": "5985aa6f81",
         "server": "7284",
         "title": "IMG_0059",
-        "up": 2
+        "up": 4
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9060674358",
         "isprimary": "0",
@@ -87,7 +87,7 @@
         "secret": "95fbb76c1d",
         "server": "5446",
         "title": "IMG_0061",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -100,7 +100,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9060652686",
         "isprimary": "0",
@@ -127,7 +127,7 @@
         "secret": "5097deb125",
         "server": "3771",
         "title": "IMG_0065",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -157,7 +157,7 @@
         "secret": "40058f2893",
         "server": "2878",
         "title": "IMG_0068",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -217,7 +217,7 @@
         "secret": "340dcb5383",
         "server": "7334",
         "title": "IMG_0074",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -227,7 +227,7 @@
         "secret": "ef78a7f89f",
         "server": "3760",
         "title": "IMG_0075",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -237,7 +237,7 @@
         "secret": "da5764e9ef",
         "server": "3783",
         "title": "IMG_0076",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -247,17 +247,17 @@
         "secret": "5d3bd96ede",
         "server": "7377",
         "title": "IMG_0077",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060527730",
         "isprimary": "0",
         "secret": "b886e38c85",
         "server": "5350",
         "title": "IMG_0078",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -270,14 +270,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9058286987",
         "isprimary": "0",
         "secret": "3fc427241a",
         "server": "7396",
         "title": "IMG_0080",
-        "up": 2
+        "up": 3
     },
     {
         "down": 1,
@@ -307,7 +307,7 @@
         "secret": "269cd2b67e",
         "server": "2819",
         "title": "IMG_0083",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -317,7 +317,7 @@
         "secret": "364e6f17ca",
         "server": "5535",
         "title": "IMG_0084",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -330,7 +330,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9060467266",
         "isprimary": "0",
@@ -347,10 +347,10 @@
         "secret": "7afa8472f7",
         "server": "5480",
         "title": "IMG_0087",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9060456146",
         "isprimary": "0",
@@ -380,7 +380,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9058213209",
         "isprimary": "0",
@@ -410,7 +410,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9060422478",
         "isprimary": "0",
@@ -427,7 +427,7 @@
         "secret": "080d1d83dd",
         "server": "7335",
         "title": "IMG_0095",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -440,7 +440,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060407108",
         "isprimary": "0",
@@ -460,7 +460,7 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9060395694",
         "isprimary": "0",
@@ -510,7 +510,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9058137279",
         "isprimary": "0",
@@ -530,14 +530,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9058122185",
         "isprimary": "0",
         "secret": "5653fce9e3",
         "server": "5525",
         "title": "IMG_0106",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -547,7 +547,7 @@
         "secret": "5993caa051",
         "server": "3756",
         "title": "IMG_0107",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -557,7 +557,7 @@
         "secret": "bc6de27595",
         "server": "7409",
         "title": "IMG_0108",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -580,14 +580,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9058085433",
         "isprimary": "0",
         "secret": "42af26e597",
         "server": "7317",
         "title": "IMG_0111",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -597,7 +597,7 @@
         "secret": "be2fd5904c",
         "server": "7345",
         "title": "IMG_0112",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -610,7 +610,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9060281202",
         "isprimary": "0",
@@ -627,7 +627,7 @@
         "secret": "3d5f152803",
         "server": "3689",
         "title": "IMG_0115",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -640,17 +640,17 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9060259940",
         "isprimary": "0",
         "secret": "c9d21ee09d",
         "server": "7329",
         "title": "IMG_0117",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060253738",
         "isprimary": "0",
@@ -660,7 +660,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9060247184",
         "isprimary": "0",
@@ -670,14 +670,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9058017349",
         "isprimary": "0",
         "secret": "64f873a71c",
         "server": "3770",
         "title": "IMG_0120",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -700,7 +700,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9058001481",
         "isprimary": "0",
@@ -727,7 +727,7 @@
         "secret": "87d407286a",
         "server": "5346",
         "title": "IMG_0125",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -750,7 +750,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060200506",
         "isprimary": "0",
@@ -767,7 +767,7 @@
         "secret": "69c9915daf",
         "server": "3747",
         "title": "IMG_0129",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -780,7 +780,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9057961353",
         "isprimary": "0",
@@ -817,7 +817,7 @@
         "secret": "6c53c2390d",
         "server": "3763",
         "title": "IMG_0134",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -857,7 +857,7 @@
         "secret": "d28b90db61",
         "server": "3808",
         "title": "IMG_0138",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -867,7 +867,7 @@
         "secret": "c650174619",
         "server": "2859",
         "title": "IMG_0139",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -877,10 +877,10 @@
         "secret": "772182f628",
         "server": "7310",
         "title": "IMG_0140",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9057905667",
         "isprimary": "0",
@@ -897,7 +897,7 @@
         "secret": "762a054de9",
         "server": "2807",
         "title": "IMG_0142",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -907,7 +907,7 @@
         "secret": "2a0bb7021c",
         "server": "2868",
         "title": "IMG_0143",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -917,7 +917,7 @@
         "secret": "fd5350cb45",
         "server": "3715",
         "title": "IMG_0144",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -947,7 +947,7 @@
         "secret": "186e4f45cc",
         "server": "7327",
         "title": "IMG_0147",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -967,7 +967,7 @@
         "secret": "ef317a5c26",
         "server": "7354",
         "title": "IMG_0149",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -977,7 +977,7 @@
         "secret": "3cb29cf57f",
         "server": "5473",
         "title": "IMG_0150",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1007,17 +1007,17 @@
         "secret": "92f5eb7ebc",
         "server": "7338",
         "title": "IMG_0153",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9058587095",
         "isprimary": "0",
         "secret": "f81481706d",
         "server": "2821",
         "title": "IMG_0209",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -1027,20 +1027,20 @@
         "secret": "4dd5cd472d",
         "server": "2878",
         "title": "IMG_0210",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9060801574",
         "isprimary": "0",
         "secret": "df2f28149e",
         "server": "7452",
         "title": "IMG_0211",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060797312",
         "isprimary": "0",
@@ -1060,14 +1060,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9058561483",
         "isprimary": "0",
         "secret": "6777fda539",
         "server": "7400",
         "title": "IMG_0214",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -1077,17 +1077,17 @@
         "secret": "5748b5bffd",
         "server": "5486",
         "title": "IMG_0215",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9060776826",
         "isprimary": "0",
         "secret": "70e3cca31a",
         "server": "7361",
         "title": "IMG_0216",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1100,14 +1100,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "8",
         "id": "9059885227",
         "isprimary": "0",
         "secret": "9a04ffb1da",
         "server": "7459",
         "title": "IMG_0222",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -1117,7 +1117,7 @@
         "secret": "b65a48ae0e",
         "server": "7286",
         "title": "IMG_0223",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1127,10 +1127,10 @@
         "secret": "187c5aa53e",
         "server": "7400",
         "title": "IMG_0224",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9059867231",
         "isprimary": "0",
@@ -1147,7 +1147,7 @@
         "secret": "326d6d995e",
         "server": "3679",
         "title": "IMG_0226",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -1157,7 +1157,7 @@
         "secret": "01a38823ba",
         "server": "2875",
         "title": "IMG_0227",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -1167,7 +1167,7 @@
         "secret": "11e2c0b659",
         "server": "7341",
         "title": "IMG_0228",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -1177,10 +1177,10 @@
         "secret": "3cf7b90fa9",
         "server": "5335",
         "title": "IMG_0229",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062058136",
         "isprimary": "0",
@@ -1217,7 +1217,7 @@
         "secret": "06f1490e32",
         "server": "3828",
         "title": "IMG_0233",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1227,7 +1227,7 @@
         "secret": "b012186791",
         "server": "7287",
         "title": "IMG_0234",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1240,7 +1240,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062021408",
         "isprimary": "0",
@@ -1280,7 +1280,7 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9059777781",
         "isprimary": "0",
@@ -1310,17 +1310,17 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9059765741",
         "isprimary": "0",
         "secret": "ccbeb5b77a",
         "server": "7292",
         "title": "IMG_0243",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9061987738",
         "isprimary": "0",
@@ -1350,14 +1350,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9061974072",
         "isprimary": "0",
         "secret": "461d49dd99",
         "server": "5336",
         "title": "IMG_0247",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1370,24 +1370,24 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9061963948",
         "isprimary": "0",
         "secret": "e5db42e471",
         "server": "7387",
         "title": "IMG_0249",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9059732081",
         "isprimary": "0",
         "secret": "84197024d6",
         "server": "3715",
         "title": "IMG_0250",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1407,7 +1407,7 @@
         "secret": "d15199b4fc",
         "server": "3778",
         "title": "IMG_0252",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -1427,7 +1427,7 @@
         "secret": "f62bab6c60",
         "server": "3693",
         "title": "IMG_0254",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -1457,7 +1457,7 @@
         "secret": "a31f1df4c8",
         "server": "2876",
         "title": "IMG_0257",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1487,7 +1487,7 @@
         "secret": "7a83dcf50b",
         "server": "2852",
         "title": "IMG_0260",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -1557,17 +1557,17 @@
         "secret": "613cc1599b",
         "server": "5524",
         "title": "IMG_0267",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061810982",
         "isprimary": "0",
         "secret": "5121a49dc4",
         "server": "3801",
         "title": "IMG_0268",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -1577,17 +1577,17 @@
         "secret": "f3789a243b",
         "server": "3819",
         "title": "IMG_0269",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9059575973",
         "isprimary": "0",
         "secret": "4c1ef2dd8a",
         "server": "3781",
         "title": "IMG_0270",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -1607,7 +1607,7 @@
         "secret": "f04a1ae25e",
         "server": "7341",
         "title": "IMG_0272",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -1627,7 +1627,7 @@
         "secret": "8d988fdb96",
         "server": "7429",
         "title": "IMG_0274",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -1647,10 +1647,10 @@
         "secret": "063d318ece",
         "server": "7393",
         "title": "IMG_0276",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9061739248",
         "isprimary": "0",
@@ -1680,24 +1680,24 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061706734",
         "isprimary": "0",
         "secret": "f915f2dc6b",
         "server": "3779",
         "title": "IMG_0280",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061700594",
         "isprimary": "0",
         "secret": "c935a4f3b4",
         "server": "3704",
         "title": "IMG_0281",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1707,7 +1707,7 @@
         "secret": "2f2f419593",
         "server": "7349",
         "title": "IMG_0282",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -1730,7 +1730,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9059436835",
         "isprimary": "0",
@@ -1777,10 +1777,10 @@
         "secret": "8b7f2911c5",
         "server": "3742",
         "title": "IMG_0289",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9061634438",
         "isprimary": "0",
@@ -1807,7 +1807,7 @@
         "secret": "cec34f4082",
         "server": "3782",
         "title": "IMG_0292",
-        "up": 2
+        "up": 5
     },
     {
         "down": 0,
@@ -1820,17 +1820,17 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061613374",
         "isprimary": "0",
         "secret": "8523f403e6",
         "server": "3769",
         "title": "IMG_0294",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "6",
         "id": "9059377987",
         "isprimary": "0",
@@ -1857,27 +1857,27 @@
         "secret": "f9aa71699b",
         "server": "5344",
         "title": "IMG_0297",
-        "up": 1
+        "up": 5
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061593282",
         "isprimary": "0",
         "secret": "d31c2e1dc5",
         "server": "3749",
         "title": "IMG_0298",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9059359727",
         "isprimary": "0",
         "secret": "f715753362",
         "server": "2865",
         "title": "IMG_0299",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -1900,17 +1900,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9061573888",
         "isprimary": "0",
         "secret": "57ca4592e4",
         "server": "3751",
         "title": "IMG_0302",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9059340423",
         "isprimary": "0",
@@ -1920,17 +1920,17 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9059335857",
         "isprimary": "0",
         "secret": "5ee092da64",
         "server": "5517",
         "title": "IMG_0304",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061560480",
         "isprimary": "0",
@@ -1957,20 +1957,20 @@
         "secret": "794cff274a",
         "server": "5498",
         "title": "IMG_0307",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061543716",
         "isprimary": "0",
         "secret": "c8b36c2f3e",
         "server": "3749",
         "title": "IMG_0308",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9059309623",
         "isprimary": "0",
@@ -1980,7 +1980,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9059304951",
         "isprimary": "0",
@@ -1997,10 +1997,10 @@
         "secret": "7d3e5bdd04",
         "server": "5504",
         "title": "IMG_0311",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9059296561",
         "isprimary": "0",
@@ -2017,7 +2017,7 @@
         "secret": "4b7a545c2b",
         "server": "5470",
         "title": "IMG_0313",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -2040,7 +2040,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9059278385",
         "isprimary": "0",
@@ -2067,7 +2067,7 @@
         "secret": "4829986a3e",
         "server": "2863",
         "title": "IMG_0318",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -2097,10 +2097,10 @@
         "secret": "caa7367d85",
         "server": "7286",
         "title": "IMG_0321",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9059246283",
         "isprimary": "0",
@@ -2130,7 +2130,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9061456270",
         "isprimary": "0",
@@ -2140,7 +2140,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9061450182",
         "isprimary": "0",
@@ -2150,7 +2150,7 @@
         "up": 0
     },
     {
-        "down": 3,
+        "down": 5,
         "farm": "8",
         "id": "9059213139",
         "isprimary": "0",
@@ -2160,7 +2160,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "3",
         "id": "9061435114",
         "isprimary": "0",
@@ -2187,10 +2187,10 @@
         "secret": "522bacd5c0",
         "server": "7429",
         "title": "IMG_0330",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9059181575",
         "isprimary": "0",
@@ -2207,7 +2207,7 @@
         "secret": "6874b6efde",
         "server": "7347",
         "title": "IMG_0332",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2220,24 +2220,24 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061386666",
         "isprimary": "0",
         "secret": "c765323107",
         "server": "3749",
         "title": "IMG_0334",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9059148135",
         "isprimary": "0",
         "secret": "7413db6c22",
         "server": "2887",
         "title": "IMG_0335",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -2247,17 +2247,17 @@
         "secret": "b274c9a5da",
         "server": "3782",
         "title": "IMG_0336",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9059132123",
         "isprimary": "0",
         "secret": "399c3ab6fb",
         "server": "3767",
         "title": "IMG_0337",
-        "up": 0
+        "up": 3
     },
     {
         "down": 2,
@@ -2267,7 +2267,7 @@
         "secret": "d775894275",
         "server": "3740",
         "title": "IMG_0338",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2287,7 +2287,7 @@
         "secret": "9e5858bc1c",
         "server": "7344",
         "title": "IMG_0340",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2317,10 +2317,10 @@
         "secret": "3fb20038cb",
         "server": "2892",
         "title": "IMG_0343",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "6",
         "id": "9061311794",
         "isprimary": "0",
@@ -2340,7 +2340,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9061299732",
         "isprimary": "0",
@@ -2360,14 +2360,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061286670",
         "isprimary": "0",
         "secret": "ccab063b87",
         "server": "3816",
         "title": "IMG_0348",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -2377,7 +2377,7 @@
         "secret": "84967fa72d",
         "server": "3709",
         "title": "IMG_0349",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -2407,7 +2407,7 @@
         "secret": "a11748ac6f",
         "server": "3823",
         "title": "IMG_0352",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2430,7 +2430,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9059018863",
         "isprimary": "0",
@@ -2447,7 +2447,7 @@
         "secret": "c3c7c5bec5",
         "server": "3694",
         "title": "IMG_0356",
-        "up": 1
+        "up": 4
     },
     {
         "down": 0,
@@ -2477,7 +2477,7 @@
         "secret": "a8846dc6ca",
         "server": "3821",
         "title": "IMG_0359",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -2510,14 +2510,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9058973613",
         "isprimary": "0",
         "secret": "51260fc553",
         "server": "3779",
         "title": "IMG_0363",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2567,7 +2567,7 @@
         "secret": "09c1a342fd",
         "server": "3669",
         "title": "IMG_0368",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2590,7 +2590,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9058926979",
         "isprimary": "0",
@@ -2607,7 +2607,7 @@
         "secret": "e789e6aa2e",
         "server": "5534",
         "title": "IMG_0372",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -2640,7 +2640,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "4",
         "id": "9058897399",
         "isprimary": "0",
@@ -2687,7 +2687,7 @@
         "secret": "d3b56039bf",
         "server": "7358",
         "title": "IMG_0380",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -2727,10 +2727,10 @@
         "secret": "532c14f0b1",
         "server": "7286",
         "title": "IMG_0384",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9058843753",
         "isprimary": "0",
@@ -2770,14 +2770,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9058819181",
         "isprimary": "0",
         "secret": "b35a1ffcc4",
         "server": "5547",
         "title": "IMG_0389",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2787,7 +2787,7 @@
         "secret": "056cc7c294",
         "server": "3817",
         "title": "IMG_0390",
-        "up": 0
+        "up": 1
     },
     {
         "down": 2,
@@ -2800,7 +2800,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9061032702",
         "isprimary": "0",
@@ -2810,7 +2810,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9061020432",
         "isprimary": "0",
@@ -2830,7 +2830,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "6",
         "id": "9061007272",
         "isprimary": "0",
@@ -2860,7 +2860,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9058762291",
         "isprimary": "0",
@@ -2870,7 +2870,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "4",
         "id": "9058755551",
         "isprimary": "0",
@@ -2897,7 +2897,7 @@
         "secret": "a5e6fc1ec2",
         "server": "3800",
         "title": "IMG_0401",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -2917,7 +2917,7 @@
         "secret": "0c0572915e",
         "server": "5453",
         "title": "IMG_0403",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -2977,10 +2977,10 @@
         "secret": "b1d32e837a",
         "server": "5500",
         "title": "IMG_0409",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "3",
         "id": "9060909110",
         "isprimary": "0",
@@ -2997,7 +2997,7 @@
         "secret": "a395815f56",
         "server": "7299",
         "title": "IMG_0411",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3020,7 +3020,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9060883804",
         "isprimary": "0",
@@ -3030,7 +3030,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 4,
         "farm": "8",
         "id": "9058652109",
         "isprimary": "0",
@@ -3047,10 +3047,10 @@
         "secret": "75e4fd0753",
         "server": "7416",
         "title": "IMG_0416",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9058640887",
         "isprimary": "0",
@@ -3067,10 +3067,10 @@
         "secret": "d43a198523",
         "server": "3712",
         "title": "IMG_0418",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9058628075",
         "isprimary": "0",
@@ -3080,7 +3080,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9060843874",
         "isprimary": "0",
@@ -3100,7 +3100,7 @@
         "up": 0
     },
     {
-        "down": 3,
+        "down": 5,
         "farm": "4",
         "id": "9063097792",
         "isprimary": "0",
@@ -3110,7 +3110,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063094232",
         "isprimary": "0",
@@ -3137,10 +3137,10 @@
         "secret": "1063b38533",
         "server": "2847",
         "title": "IMG_0424",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9063081686",
         "isprimary": "0",
@@ -3157,17 +3157,17 @@
         "secret": "f6db799356",
         "server": "5518",
         "title": "IMG_0426",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060837167",
         "isprimary": "0",
         "secret": "de73d92c14",
         "server": "3792",
         "title": "IMG_0427",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -3180,7 +3180,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "3",
         "id": "9060828131",
         "isprimary": "0",
@@ -3190,7 +3190,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9060823239",
         "isprimary": "0",
@@ -3200,24 +3200,24 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060817025",
         "isprimary": "0",
         "secret": "e67c6cd4de",
         "server": "3764",
         "title": "IMG_0431",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9063040080",
         "isprimary": "0",
         "secret": "9af2376e5a",
         "server": "3760",
         "title": "IMG_0432",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -3227,17 +3227,17 @@
         "secret": "8a94134c37",
         "server": "7324",
         "title": "IMG_0433",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060799173",
         "isprimary": "0",
         "secret": "ecb2df1750",
         "server": "3808",
         "title": "IMG_0434",
-        "up": 0
+        "up": 3
     },
     {
         "down": 1,
@@ -3247,7 +3247,7 @@
         "secret": "85d5537453",
         "server": "7343",
         "title": "IMG_0435",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3267,10 +3267,10 @@
         "secret": "43bee75372",
         "server": "7409",
         "title": "IMG_0437",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063008256",
         "isprimary": "0",
@@ -3280,14 +3280,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9060771073",
         "isprimary": "0",
         "secret": "b76bb43c22",
         "server": "7398",
         "title": "IMG_0439",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3300,7 +3300,7 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062991572",
         "isprimary": "0",
@@ -3320,7 +3320,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062983000",
         "isprimary": "0",
@@ -3357,7 +3357,7 @@
         "secret": "1e730c20cb",
         "server": "2894",
         "title": "IMG_0446",
-        "up": 1
+        "up": 4
     },
     {
         "down": 0,
@@ -3380,7 +3380,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062959302",
         "isprimary": "0",
@@ -3417,7 +3417,7 @@
         "secret": "fee6264d0b",
         "server": "7345",
         "title": "IMG_0452",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -3427,10 +3427,10 @@
         "secret": "ac265b2d55",
         "server": "3676",
         "title": "IMG_0453",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062921528",
         "isprimary": "0",
@@ -3457,27 +3457,27 @@
         "secret": "ca59c070e5",
         "server": "2889",
         "title": "IMG_0456",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062905966",
         "isprimary": "0",
         "secret": "3e0cf44aae",
         "server": "3797",
         "title": "IMG_0458",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9062910484",
         "isprimary": "0",
         "secret": "26e5cb27f9",
         "server": "5496",
         "title": "IMG_0457",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -3487,7 +3487,7 @@
         "secret": "eeb90f35fb",
         "server": "7305",
         "title": "IMG_0459",
-        "up": 2
+        "up": 4
     },
     {
         "down": 0,
@@ -3507,7 +3507,7 @@
         "secret": "0932a56435",
         "server": "3673",
         "title": "IMG_0462",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3517,7 +3517,7 @@
         "secret": "9dd94c166f",
         "server": "5489",
         "title": "IMG_0463",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -3530,7 +3530,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062874358",
         "isprimary": "0",
@@ -3540,14 +3540,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060641095",
         "isprimary": "0",
         "secret": "6191b0d22b",
         "server": "3729",
         "title": "IMG_0466",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3567,7 +3567,7 @@
         "secret": "e3ec36ee2f",
         "server": "5515",
         "title": "IMG_0468",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -3577,7 +3577,7 @@
         "secret": "5b4084313e",
         "server": "7290",
         "title": "IMG_0469",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -3587,17 +3587,17 @@
         "secret": "6aeae86c8c",
         "server": "3776",
         "title": "IMG_0470",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060617951",
         "isprimary": "0",
         "secret": "4bb7449fae",
         "server": "5510",
         "title": "IMG_0471",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3610,14 +3610,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060610873",
         "isprimary": "0",
         "secret": "4e1cd059d1",
         "server": "5498",
         "title": "IMG_0473",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -3630,7 +3630,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062830718",
         "isprimary": "0",
@@ -3647,27 +3647,27 @@
         "secret": "679b679ba8",
         "server": "3690",
         "title": "IMG_0476",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9062821052",
         "isprimary": "0",
         "secret": "34938760e5",
         "server": "3737",
         "title": "IMG_0477",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "8",
         "id": "9060588037",
         "isprimary": "0",
         "secret": "cf25cf5123",
         "server": "7392",
         "title": "IMG_0478",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -3680,14 +3680,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062807358",
         "isprimary": "0",
         "secret": "12c985ec18",
         "server": "3798",
         "title": "IMG_0480",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -3697,7 +3697,7 @@
         "secret": "856439a5e9",
         "server": "7355",
         "title": "IMG_0481",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -3710,7 +3710,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062791376",
         "isprimary": "0",
@@ -3720,17 +3720,17 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9062786426",
         "isprimary": "0",
         "secret": "acbf31a762",
         "server": "2888",
         "title": "IMG_0484",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062781684",
         "isprimary": "0",
@@ -3750,34 +3750,34 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9060543361",
         "isprimary": "0",
         "secret": "805fef1a55",
         "server": "2875",
         "title": "IMG_0487",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9060537981",
         "isprimary": "0",
         "secret": "192178aa5a",
         "server": "3725",
         "title": "IMG_0488",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062761552",
         "isprimary": "0",
         "secret": "9b4fd62a73",
         "server": "2855",
         "title": "IMG_0489",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -3790,7 +3790,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062751090",
         "isprimary": "0",
@@ -3800,7 +3800,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062745214",
         "isprimary": "0",
@@ -3810,7 +3810,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062738890",
         "isprimary": "0",
@@ -3830,17 +3830,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062725926",
         "isprimary": "0",
         "secret": "993ea0d44a",
         "server": "5332",
         "title": "IMG_0495",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062720832",
         "isprimary": "0",
@@ -3857,10 +3857,10 @@
         "secret": "b38a9a2c87",
         "server": "5536",
         "title": "IMG_0497",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060482917",
         "isprimary": "0",
@@ -3877,10 +3877,10 @@
         "secret": "390308d366",
         "server": "3703",
         "title": "IMG_0499",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060474023",
         "isprimary": "0",
@@ -3890,7 +3890,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9060470555",
         "isprimary": "0",
@@ -3930,7 +3930,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062685064",
         "isprimary": "0",
@@ -3960,7 +3960,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9060445021",
         "isprimary": "0",
@@ -3970,7 +3970,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062669672",
         "isprimary": "0",
@@ -3987,7 +3987,7 @@
         "secret": "7a9b578ab7",
         "server": "3722",
         "title": "IMG_0510",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4000,7 +4000,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062655874",
         "isprimary": "0",
@@ -4010,24 +4010,24 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9060422743",
         "isprimary": "0",
         "secret": "b32b791108",
         "server": "5484",
         "title": "IMG_0513",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9060417699",
         "isprimary": "0",
         "secret": "7d224496c0",
         "server": "7293",
         "title": "IMG_0514",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -4037,10 +4037,10 @@
         "secret": "3590d39ec1",
         "server": "2887",
         "title": "IMG_0515",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9060407245",
         "isprimary": "0",
@@ -4067,7 +4067,7 @@
         "secret": "11dfcec71c",
         "server": "3748",
         "title": "IMG_0518",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4077,7 +4077,7 @@
         "secret": "b0559fef6f",
         "server": "5536",
         "title": "IMG_0519",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -4090,14 +4090,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062613920",
         "isprimary": "0",
         "secret": "6d1ee45772",
         "server": "3672",
         "title": "IMG_0521",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -4107,7 +4107,7 @@
         "secret": "acc84d0a3f",
         "server": "5497",
         "title": "IMG_0522",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -4120,17 +4120,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9060370697",
         "isprimary": "0",
         "secret": "69ed3e3827",
         "server": "7344",
         "title": "IMG_0524",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9062594394",
         "isprimary": "0",
@@ -4140,7 +4140,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060362757",
         "isprimary": "0",
@@ -4150,7 +4150,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9060358285",
         "isprimary": "0",
@@ -4160,14 +4160,14 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062582110",
         "isprimary": "0",
         "secret": "d0f4737988",
         "server": "7336",
         "title": "IMG_0528",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4180,7 +4180,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9060342735",
         "isprimary": "0",
@@ -4200,7 +4200,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9062560920",
         "isprimary": "0",
@@ -4220,7 +4220,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060322059",
         "isprimary": "0",
@@ -4230,17 +4230,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062545542",
         "isprimary": "0",
         "secret": "e8cb8e209e",
         "server": "5348",
         "title": "IMG_0535",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9062540552",
         "isprimary": "0",
@@ -4260,7 +4260,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062531266",
         "isprimary": "0",
@@ -4277,7 +4277,7 @@
         "secret": "28a453485c",
         "server": "3810",
         "title": "IMG_0539",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4290,17 +4290,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060288607",
         "isprimary": "0",
         "secret": "47d43da0a6",
         "server": "5350",
         "title": "IMG_0541",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9062512542",
         "isprimary": "0",
@@ -4310,7 +4310,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9060279925",
         "isprimary": "0",
@@ -4327,7 +4327,7 @@
         "secret": "2d19125bd0",
         "server": "7299",
         "title": "IMG_0545",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -4337,10 +4337,10 @@
         "secret": "037699a7e1",
         "server": "5449",
         "title": "IMG_0546",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062491210",
         "isprimary": "0",
@@ -4357,7 +4357,7 @@
         "secret": "edea2a6b22",
         "server": "7359",
         "title": "IMG_0548",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -4387,7 +4387,7 @@
         "secret": "b312c6b032",
         "server": "2818",
         "title": "IMG_0551",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -4417,17 +4417,17 @@
         "secret": "2735f61fca",
         "server": "7454",
         "title": "IMG_0555",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9060228551",
         "isprimary": "0",
         "secret": "ff062257c5",
         "server": "5464",
         "title": "IMG_0556",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4437,17 +4437,17 @@
         "secret": "3896de1598",
         "server": "5503",
         "title": "IMG_0557",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060219585",
         "isprimary": "0",
         "secret": "d93f525157",
         "server": "3760",
         "title": "IMG_0558",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -4470,7 +4470,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "3",
         "id": "9060205869",
         "isprimary": "0",
@@ -4487,7 +4487,7 @@
         "secret": "38ba2725c2",
         "server": "5462",
         "title": "IMG_0562",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4497,10 +4497,10 @@
         "secret": "c6eb55923f",
         "server": "7425",
         "title": "IMG_0563",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9060196203",
         "isprimary": "0",
@@ -4537,7 +4537,7 @@
         "secret": "9c52e5745a",
         "server": "5458",
         "title": "IMG_0567",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4550,17 +4550,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062402030",
         "isprimary": "0",
         "secret": "3236156db7",
         "server": "7412",
         "title": "IMG_0569",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9060171183",
         "isprimary": "0",
@@ -4570,7 +4570,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "4",
         "id": "9062395916",
         "isprimary": "0",
@@ -4587,27 +4587,27 @@
         "secret": "bc958d779a",
         "server": "2856",
         "title": "IMG_0572",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062387366",
         "isprimary": "0",
         "secret": "3d63b6a935",
         "server": "7368",
         "title": "IMG_0573",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9062383534",
         "isprimary": "0",
         "secret": "c94d8772e3",
         "server": "3806",
         "title": "IMG_0574",
-        "up": 0
+        "up": 2
     },
     {
         "down": 2,
@@ -4627,7 +4627,7 @@
         "secret": "7e7e5ee266",
         "server": "2887",
         "title": "IMG_0576",
-        "up": 0
+        "up": 1
     },
     {
         "down": 3,
@@ -4637,17 +4637,17 @@
         "secret": "f9c2accca8",
         "server": "7316",
         "title": "IMG_0577",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062367912",
         "isprimary": "0",
         "secret": "839c5c752c",
         "server": "3784",
         "title": "IMG_0578",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4657,7 +4657,7 @@
         "secret": "a4458bf092",
         "server": "3726",
         "title": "IMG_0579",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -4667,10 +4667,10 @@
         "secret": "d237ce16dc",
         "server": "7422",
         "title": "IMG_0580",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9060127331",
         "isprimary": "0",
@@ -4680,24 +4680,24 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9062350174",
         "isprimary": "0",
         "secret": "189a9172ed",
         "server": "5334",
         "title": "IMG_0582",
-        "up": 0
+        "up": 4
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9060118943",
         "isprimary": "0",
         "secret": "a0552a44bb",
         "server": "3711",
         "title": "IMG_0583",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -4707,7 +4707,7 @@
         "secret": "baaf015fd1",
         "server": "7320",
         "title": "IMG_0584",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -4727,17 +4727,17 @@
         "secret": "b286d27757",
         "server": "3679",
         "title": "IMG_0586",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062323282",
         "isprimary": "0",
         "secret": "928687807f",
         "server": "5475",
         "title": "IMG_0587",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -4760,7 +4760,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062306808",
         "isprimary": "0",
@@ -4770,17 +4770,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9060074811",
         "isprimary": "0",
         "secret": "c5f9a8b35a",
         "server": "7358",
         "title": "IMG_0591",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9062297846",
         "isprimary": "0",
@@ -4797,7 +4797,7 @@
         "secret": "64975cb757",
         "server": "2825",
         "title": "IMG_0593",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4807,30 +4807,30 @@
         "secret": "86d2550493",
         "server": "3804",
         "title": "IMG_0594",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062283650",
         "isprimary": "0",
         "secret": "a93c660348",
         "server": "7435",
         "title": "IMG_0595",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9060051281",
         "isprimary": "0",
         "secret": "c5b3cec0c8",
         "server": "3692",
         "title": "IMG_0596",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9060046719",
         "isprimary": "0",
@@ -4887,7 +4887,7 @@
         "secret": "39fb3dbc9e",
         "server": "5535",
         "title": "IMG_0602",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4897,7 +4897,7 @@
         "secret": "5d079e6fb1",
         "server": "3732",
         "title": "IMG_0603",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -4907,7 +4907,7 @@
         "secret": "1616cc0ebc",
         "server": "3735",
         "title": "IMG_0604",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -4917,7 +4917,7 @@
         "secret": "6ec1e1b9d4",
         "server": "3723",
         "title": "IMG_0605",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -4927,10 +4927,10 @@
         "secret": "3c9b5e2e5b",
         "server": "7442",
         "title": "IMG_0606",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9060000329",
         "isprimary": "0",
@@ -4947,7 +4947,7 @@
         "secret": "1b4c67acc3",
         "server": "3751",
         "title": "IMG_0608",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -4977,10 +4977,10 @@
         "secret": "1839499e3b",
         "server": "5469",
         "title": "IMG_0611",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062199740",
         "isprimary": "0",
@@ -5007,20 +5007,20 @@
         "secret": "4a5db3450a",
         "server": "3812",
         "title": "IMG_0614",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "3",
         "id": "9059956685",
         "isprimary": "0",
         "secret": "0b8933a32a",
         "server": "2865",
         "title": "IMG_0615",
-        "up": 1
+        "up": 4
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9062177920",
         "isprimary": "0",
@@ -5030,7 +5030,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062172876",
         "isprimary": "0",
@@ -5047,7 +5047,7 @@
         "secret": "295ba5cc37",
         "server": "2832",
         "title": "IMG_0618",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5097,7 +5097,7 @@
         "secret": "fba4dafa0e",
         "server": "5543",
         "title": "IMG_0623",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -5127,17 +5127,17 @@
         "secret": "63ba747345",
         "server": "7458",
         "title": "IMG_0626",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9064145553",
         "isprimary": "0",
         "secret": "ceee36214b",
         "server": "5343",
         "title": "IMG_0627",
-        "up": 2
+        "up": 4
     },
     {
         "down": 0,
@@ -5147,7 +5147,7 @@
         "secret": "6eb873681b",
         "server": "5514",
         "title": "IMG_0628",
-        "up": 1
+        "up": 4
     },
     {
         "down": 0,
@@ -5157,17 +5157,17 @@
         "secret": "5121a6cc26",
         "server": "7303",
         "title": "IMG_0629",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066337184",
         "isprimary": "0",
         "secret": "1bd08a16a7",
         "server": "2890",
         "title": "IMG_0630",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5177,7 +5177,7 @@
         "secret": "bede111209",
         "server": "7353",
         "title": "IMG_0631",
-        "up": 1
+        "up": 4
     },
     {
         "down": 0,
@@ -5187,10 +5187,10 @@
         "secret": "d766794317",
         "server": "7445",
         "title": "IMG_0632",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9064076229",
         "isprimary": "0",
@@ -5200,14 +5200,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066288614",
         "isprimary": "0",
         "secret": "04846a742d",
         "server": "5503",
         "title": "IMG_0634",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5217,7 +5217,7 @@
         "secret": "ac206f3873",
         "server": "7449",
         "title": "IMG_0635",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -5247,7 +5247,7 @@
         "secret": "5aea9b70d5",
         "server": "3688",
         "title": "IMG_0638",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -5260,14 +5260,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066224280",
         "isprimary": "0",
         "secret": "b5d539bd9c",
         "server": "7369",
         "title": "IMG_0640",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -5280,14 +5280,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063979123",
         "isprimary": "0",
         "secret": "3c7bfb2735",
         "server": "5536",
         "title": "IMG_0642",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -5320,14 +5320,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066168422",
         "isprimary": "0",
         "secret": "05ee727dcd",
         "server": "5521",
         "title": "IMG_0646",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -5337,7 +5337,7 @@
         "secret": "26183cc902",
         "server": "5465",
         "title": "IMG_0647",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5357,10 +5357,10 @@
         "secret": "77e20fbf25",
         "server": "7313",
         "title": "IMG_0649",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063895613",
         "isprimary": "0",
@@ -5370,7 +5370,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066110630",
         "isprimary": "0",
@@ -5390,27 +5390,27 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066089446",
         "isprimary": "0",
         "secret": "35f13405f7",
         "server": "7384",
         "title": "IMG_0653",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063847753",
         "isprimary": "0",
         "secret": "0047783a06",
         "server": "7389",
         "title": "IMG_0654",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9063833483",
         "isprimary": "0",
@@ -5437,7 +5437,7 @@
         "secret": "fdb6e73c7c",
         "server": "3826",
         "title": "IMG_0657",
-        "up": 1
+        "up": 3
     },
     {
         "down": 1,
@@ -5447,7 +5447,7 @@
         "secret": "83280ba0a4",
         "server": "5325",
         "title": "IMG_0658",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -5477,17 +5477,17 @@
         "secret": "c9a36d3ce8",
         "server": "3768",
         "title": "IMG_0661",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9065956844",
         "isprimary": "0",
         "secret": "a5603fe458",
         "server": "5543",
         "title": "IMG_0662",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5507,7 +5507,7 @@
         "secret": "788edb7760",
         "server": "2878",
         "title": "IMG_0664",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5517,7 +5517,7 @@
         "secret": "12d9cc673c",
         "server": "2874",
         "title": "IMG_0665",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5547,7 +5547,7 @@
         "secret": "8a1730cbc6",
         "server": "3750",
         "title": "IMG_0668",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5557,7 +5557,7 @@
         "secret": "c0c6b4f731",
         "server": "7393",
         "title": "IMG_0669",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5567,10 +5567,10 @@
         "secret": "07de1c7548",
         "server": "5502",
         "title": "IMG_0670",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "4",
         "id": "9065810118",
         "isprimary": "0",
@@ -5580,7 +5580,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9063570183",
         "isprimary": "0",
@@ -5607,17 +5607,17 @@
         "secret": "8034776bfd",
         "server": "3676",
         "title": "IMG_0674",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9065741014",
         "isprimary": "0",
         "secret": "63a50a623f",
         "server": "5442",
         "title": "IMG_0675",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -5637,7 +5637,7 @@
         "secret": "5faca29721",
         "server": "7456",
         "title": "IMG_0677",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5677,7 +5677,7 @@
         "secret": "8be02dff41",
         "server": "2836",
         "title": "IMG_0681",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -5710,7 +5710,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065570944",
         "isprimary": "0",
@@ -5720,7 +5720,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9063325763",
         "isprimary": "0",
@@ -5740,14 +5740,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9065523156",
         "isprimary": "0",
         "secret": "63ce33f9b4",
         "server": "5462",
         "title": "IMG_0688",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5757,7 +5757,7 @@
         "secret": "394f6189d9",
         "server": "5336",
         "title": "IMG_0689",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5770,34 +5770,34 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063241435",
         "isprimary": "0",
         "secret": "ae88397292",
         "server": "2890",
         "title": "IMG_0691",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9065453106",
         "isprimary": "0",
         "secret": "d7f7cb6cf2",
         "server": "3774",
         "title": "IMG_0692",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065436372",
         "isprimary": "0",
         "secret": "1ed4e8cb66",
         "server": "2814",
         "title": "IMG_0693",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -5817,7 +5817,7 @@
         "secret": "bac4f921c3",
         "server": "7293",
         "title": "IMG_0695",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5827,7 +5827,7 @@
         "secret": "f4746563ce",
         "server": "2836",
         "title": "IMG_0696",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5847,10 +5847,10 @@
         "secret": "b33902f95b",
         "server": "7338",
         "title": "IMG_0698",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065321524",
         "isprimary": "0",
@@ -5860,7 +5860,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9063077383",
         "isprimary": "0",
@@ -5877,7 +5877,7 @@
         "secret": "c4380ef119",
         "server": "5462",
         "title": "IMG_0701",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5890,17 +5890,17 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9065243952",
         "isprimary": "0",
         "secret": "1dd5b30922",
         "server": "5485",
         "title": "IMG_0703",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065224154",
         "isprimary": "0",
@@ -5930,14 +5930,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065170728",
         "isprimary": "0",
         "secret": "0a46f62ea7",
         "server": "7289",
         "title": "IMG_0707",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5950,7 +5950,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062908051",
         "isprimary": "0",
@@ -5967,7 +5967,7 @@
         "secret": "a635cb202a",
         "server": "7343",
         "title": "IMG_0710",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -5977,10 +5977,10 @@
         "secret": "2e9973e6c8",
         "server": "3736",
         "title": "IMG_0711",
-        "up": 1
+        "up": 4
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065089636",
         "isprimary": "0",
@@ -6000,17 +6000,17 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 4,
         "farm": "4",
         "id": "9062823931",
         "isprimary": "0",
         "secret": "7a3e4ef4a2",
         "server": "3759",
         "title": "IMG_0714",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062806061",
         "isprimary": "0",
@@ -6037,7 +6037,7 @@
         "secret": "4d39173533",
         "server": "5459",
         "title": "IMG_0717",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6060,7 +6060,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9064929342",
         "isprimary": "0",
@@ -6087,7 +6087,7 @@
         "secret": "185858cb7d",
         "server": "7435",
         "title": "IMG_0722",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6107,17 +6107,17 @@
         "secret": "eb26855329",
         "server": "5445",
         "title": "IMG_0724",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062615059",
         "isprimary": "0",
         "secret": "93d0e71684",
         "server": "2814",
         "title": "IMG_0725",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -6127,10 +6127,10 @@
         "secret": "a7f1f2e752",
         "server": "3757",
         "title": "IMG_0726",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062572309",
         "isprimary": "0",
@@ -6147,7 +6147,7 @@
         "secret": "310e950c1b",
         "server": "5537",
         "title": "IMG_0728",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -6170,14 +6170,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064708518",
         "isprimary": "0",
         "secret": "e921ba72ee",
         "server": "3789",
         "title": "IMG_0731",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -6200,14 +6200,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062411463",
         "isprimary": "0",
         "secret": "162567c4bd",
         "server": "2818",
         "title": "IMG_0734",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6217,7 +6217,7 @@
         "secret": "f145bd631a",
         "server": "5530",
         "title": "IMG_0735",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -6230,14 +6230,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064575042",
         "isprimary": "0",
         "secret": "6dc3346c76",
         "server": "3672",
         "title": "IMG_0737",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6250,14 +6250,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "8",
         "id": "9064531158",
         "isprimary": "0",
         "secret": "6305209717",
         "server": "7401",
         "title": "IMG_0739",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -6280,7 +6280,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062234221",
         "isprimary": "0",
@@ -6290,27 +6290,27 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064442176",
         "isprimary": "0",
         "secret": "a6050e6b0a",
         "server": "3686",
         "title": "IMG_0743",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064417460",
         "isprimary": "0",
         "secret": "49f253ee97",
         "server": "3711",
         "title": "IMG_0744",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062170905",
         "isprimary": "0",
@@ -6337,10 +6337,10 @@
         "secret": "2cb8ef8d04",
         "server": "7327",
         "title": "IMG_0747",
-        "up": 3
+        "up": 4
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064317616",
         "isprimary": "0",
@@ -6350,7 +6350,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062066411",
         "isprimary": "0",
@@ -6370,7 +6370,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9062025525",
         "isprimary": "0",
@@ -6387,7 +6387,7 @@
         "secret": "3ebd6aba07",
         "server": "7396",
         "title": "IMG_0752",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6400,7 +6400,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9061961129",
         "isprimary": "0",
@@ -6410,7 +6410,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064171300",
         "isprimary": "0",
@@ -6427,7 +6427,7 @@
         "secret": "3c92b07e5c",
         "server": "7398",
         "title": "IMG_0756",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6457,7 +6457,7 @@
         "secret": "0110f4dd36",
         "server": "3825",
         "title": "IMG_0759",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6467,7 +6467,7 @@
         "secret": "e1b7502e36",
         "server": "5504",
         "title": "IMG_0760",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -6480,14 +6480,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064070136",
         "isprimary": "0",
         "secret": "1b487030d7",
         "server": "3678",
         "title": "IMG_0762",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6497,7 +6497,7 @@
         "secret": "eda80315ea",
         "server": "5349",
         "title": "IMG_0763",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6537,10 +6537,10 @@
         "secret": "35837aefa4",
         "server": "2835",
         "title": "IMG_0767",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9064053336",
         "isprimary": "0",
@@ -6560,7 +6560,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9061817805",
         "isprimary": "0",
@@ -6570,7 +6570,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9061814797",
         "isprimary": "0",
@@ -6587,7 +6587,7 @@
         "secret": "05f399083d",
         "server": "7314",
         "title": "IMG_0772",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6597,10 +6597,10 @@
         "secret": "57e0cb8c84",
         "server": "5515",
         "title": "IMG_0773",
-        "up": 2
+        "up": 4
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064028832",
         "isprimary": "0",
@@ -6617,10 +6617,10 @@
         "secret": "f2112bea92",
         "server": "7457",
         "title": "IMG_0775",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9064020284",
         "isprimary": "0",
@@ -6630,14 +6630,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9064016694",
         "isprimary": "0",
         "secret": "17652fe515",
         "server": "5507",
         "title": "IMG_0777",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6657,7 +6657,7 @@
         "secret": "1fcbeaf739",
         "server": "3802",
         "title": "IMG_0779",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6670,7 +6670,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9061756465",
         "isprimary": "0",
@@ -6687,7 +6687,7 @@
         "secret": "2b2b283b8d",
         "server": "7319",
         "title": "IMG_0782",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6707,7 +6707,7 @@
         "secret": "cb6c68a612",
         "server": "5478",
         "title": "IMG_0784",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6727,7 +6727,7 @@
         "secret": "3dd3a53506",
         "server": "5474",
         "title": "IMG_0786",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -6737,7 +6737,7 @@
         "secret": "73ff13a863",
         "server": "3732",
         "title": "IMG_0787",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -6787,10 +6787,10 @@
         "secret": "5d9ff1473b",
         "server": "2887",
         "title": "IMG_0792",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9061703425",
         "isprimary": "0",
@@ -6800,14 +6800,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061699243",
         "isprimary": "0",
         "secret": "43925eb5f0",
         "server": "3800",
         "title": "IMG_0794",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6817,7 +6817,7 @@
         "secret": "428e56e954",
         "server": "3793",
         "title": "IMG_0795",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -6840,17 +6840,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063910922",
         "isprimary": "0",
         "secret": "53432abb83",
         "server": "7423",
         "title": "IMG_0798",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "6",
         "id": "9061678099",
         "isprimary": "0",
@@ -6870,7 +6870,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061669551",
         "isprimary": "0",
@@ -6880,7 +6880,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063893674",
         "isprimary": "0",
@@ -6890,7 +6890,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061656865",
         "isprimary": "0",
@@ -6900,24 +6900,24 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063878540",
         "isprimary": "0",
         "secret": "2f19ede293",
         "server": "5321",
         "title": "IMG_0804",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9063872138",
         "isprimary": "0",
         "secret": "773ffb0564",
         "server": "3808",
         "title": "IMG_0805",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -6930,7 +6930,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063860572",
         "isprimary": "0",
@@ -6940,17 +6940,17 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9061624527",
         "isprimary": "0",
         "secret": "e7dcb2c8dd",
         "server": "5512",
         "title": "IMG_0808",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9063845876",
         "isprimary": "0",
@@ -6960,14 +6960,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063841218",
         "isprimary": "0",
         "secret": "e965e9a8f9",
         "server": "7364",
         "title": "IMG_0810",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -6990,7 +6990,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063829312",
         "isprimary": "0",
@@ -7027,7 +7027,7 @@
         "secret": "f07fae4b39",
         "server": "2873",
         "title": "IMG_0816",
-        "up": 0
+        "up": 4
     },
     {
         "down": 0,
@@ -7047,7 +7047,7 @@
         "secret": "c7cfc17e06",
         "server": "5464",
         "title": "IMG_0818",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7057,7 +7057,7 @@
         "secret": "b5bccbe522",
         "server": "3721",
         "title": "IMG_0819",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -7067,7 +7067,7 @@
         "secret": "35d0b70136",
         "server": "5476",
         "title": "IMG_0820",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7077,7 +7077,7 @@
         "secret": "e5a1958a64",
         "server": "3782",
         "title": "IMG_0821",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -7087,7 +7087,7 @@
         "secret": "b0d7ddd7e5",
         "server": "2820",
         "title": "IMG_0822",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -7100,14 +7100,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064653865",
         "isprimary": "0",
         "secret": "25ec43b0ea",
         "server": "7297",
         "title": "IMG_0824",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -7137,7 +7137,7 @@
         "secret": "b7923a37c8",
         "server": "7331",
         "title": "IMG_0827",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7167,10 +7167,10 @@
         "secret": "60a8e44fed",
         "server": "3744",
         "title": "IMG_0830",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "8",
         "id": "9064615161",
         "isprimary": "0",
@@ -7197,7 +7197,7 @@
         "secret": "7bd34b9d4f",
         "server": "3723",
         "title": "IMG_0833",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -7207,7 +7207,7 @@
         "secret": "bc228ac60f",
         "server": "2867",
         "title": "IMG_0834",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -7217,7 +7217,7 @@
         "secret": "0e67f80cee",
         "server": "3708",
         "title": "IMG_0835",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7247,7 +7247,7 @@
         "secret": "ba81c8deac",
         "server": "5550",
         "title": "IMG_0838",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7267,10 +7267,10 @@
         "secret": "1a4f2ce994",
         "server": "2881",
         "title": "IMG_0840",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066748946",
         "isprimary": "0",
@@ -7280,14 +7280,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066736696",
         "isprimary": "0",
         "secret": "b63374e4c8",
         "server": "7377",
         "title": "IMG_0842",
-        "up": 0
+        "up": 1
     },
     {
         "down": 2,
@@ -7307,7 +7307,7 @@
         "secret": "828cd21c76",
         "server": "7445",
         "title": "IMG_0844",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7327,7 +7327,7 @@
         "secret": "6d805b5721",
         "server": "7331",
         "title": "IMG_0846",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7347,17 +7347,17 @@
         "secret": "86b6dc4da4",
         "server": "2823",
         "title": "IMG_0848",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9066661712",
         "isprimary": "0",
         "secret": "9e67e32396",
         "server": "7297",
         "title": "IMG_0849",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7390,14 +7390,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "4",
         "id": "9066622498",
         "isprimary": "0",
         "secret": "8b9ff7c3b5",
         "server": "3738",
         "title": "IMG_0853",
-        "up": 1
+        "up": 2
     },
     {
         "down": 2,
@@ -7410,7 +7410,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064374821",
         "isprimary": "0",
@@ -7420,7 +7420,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9066596324",
         "isprimary": "0",
@@ -7440,7 +7440,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066582120",
         "isprimary": "0",
@@ -7450,27 +7450,27 @@
         "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9066573226",
         "isprimary": "0",
         "secret": "283f2ca084",
         "server": "7416",
         "title": "IMG_0859",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "4",
         "id": "9066567976",
         "isprimary": "0",
         "secret": "1278005d30",
         "server": "3822",
         "title": "IMG_0860",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "3",
         "id": "9064330189",
         "isprimary": "0",
@@ -7480,7 +7480,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9066549216",
         "isprimary": "0",
@@ -7500,17 +7500,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064308657",
         "isprimary": "0",
         "secret": "e7dab698f6",
         "server": "2881",
         "title": "IMG_0864",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066526516",
         "isprimary": "0",
@@ -7520,7 +7520,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066522434",
         "isprimary": "0",
@@ -7537,7 +7537,7 @@
         "secret": "7ef50ba5c8",
         "server": "3749",
         "title": "IMG_0867",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7550,7 +7550,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066508190",
         "isprimary": "0",
@@ -7577,7 +7577,7 @@
         "secret": "c2d245bc42",
         "server": "5508",
         "title": "IMG_0871",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7587,7 +7587,7 @@
         "secret": "51a6e62acb",
         "server": "2864",
         "title": "IMG_0872",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -7600,14 +7600,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066470880",
         "isprimary": "0",
         "secret": "6ddc8087d0",
         "server": "3727",
         "title": "IMG_0874",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7627,7 +7627,7 @@
         "secret": "d1861d7fa9",
         "server": "7324",
         "title": "IMG_0876",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -7637,17 +7637,17 @@
         "secret": "147510e617",
         "server": "7416",
         "title": "IMG_0877",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9064201723",
         "isprimary": "0",
         "secret": "0752e743a5",
         "server": "2858",
         "title": "IMG_0878",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -7657,7 +7657,7 @@
         "secret": "cfa9b971a5",
         "server": "3705",
         "title": "IMG_0879",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -7677,7 +7677,7 @@
         "secret": "b63980f635",
         "server": "7403",
         "title": "IMG_0881",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7690,7 +7690,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064139923",
         "isprimary": "0",
@@ -7710,24 +7710,24 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "3",
         "id": "9064114333",
         "isprimary": "0",
         "secret": "24a93af864",
         "server": "2822",
         "title": "IMG_0885",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066327002",
         "isprimary": "0",
         "secret": "48c1a94ae0",
         "server": "2840",
         "title": "IMG_0886",
-        "up": 2
+        "up": 4
     },
     {
         "down": 1,
@@ -7737,10 +7737,10 @@
         "secret": "ec3e96a1d5",
         "server": "3771",
         "title": "IMG_0887",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064072485",
         "isprimary": "0",
@@ -7750,7 +7750,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066284854",
         "isprimary": "0",
@@ -7760,7 +7760,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066272078",
         "isprimary": "0",
@@ -7780,7 +7780,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9066246656",
         "isprimary": "0",
@@ -7790,7 +7790,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066232868",
         "isprimary": "0",
@@ -7800,17 +7800,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063993815",
         "isprimary": "0",
         "secret": "426785b586",
         "server": "2888",
         "title": "IMG_0894",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066209348",
         "isprimary": "0",
@@ -7827,10 +7827,10 @@
         "secret": "c806a3ba8e",
         "server": "7428",
         "title": "IMG_0896",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9063959259",
         "isprimary": "0",
@@ -7860,7 +7860,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066149778",
         "isprimary": "0",
@@ -7877,7 +7877,7 @@
         "secret": "e0e24fa4b2",
         "server": "2820",
         "title": "IMG_0901",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7890,14 +7890,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9066112724",
         "isprimary": "0",
         "secret": "81dee33eb2",
         "server": "7297",
         "title": "IMG_0903",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -7917,10 +7917,10 @@
         "secret": "7518754c75",
         "server": "5335",
         "title": "IMG_0905",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "3",
         "id": "9063839771",
         "isprimary": "0",
@@ -7930,7 +7930,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066048818",
         "isprimary": "0",
@@ -7940,24 +7940,24 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9063807385",
         "isprimary": "0",
         "secret": "e830cf35e0",
         "server": "3717",
         "title": "IMG_0908",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066022950",
         "isprimary": "0",
         "secret": "72cae432ff",
         "server": "3748",
         "title": "IMG_0909",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -7990,14 +7990,14 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9063734057",
         "isprimary": "0",
         "secret": "b6b5a9504c",
         "server": "5543",
         "title": "IMG_0913",
-        "up": 2
+        "up": 3
     },
     {
         "down": 2,
@@ -8017,7 +8017,7 @@
         "secret": "dc277e694a",
         "server": "7391",
         "title": "IMG_0915",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8040,7 +8040,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063646029",
         "isprimary": "0",
@@ -8060,7 +8060,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9063609923",
         "isprimary": "0",
@@ -8070,7 +8070,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9063596015",
         "isprimary": "0",
@@ -8080,7 +8080,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9063583261",
         "isprimary": "0",
@@ -8120,7 +8120,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065749418",
         "isprimary": "0",
@@ -8137,10 +8137,10 @@
         "secret": "0636d7bf24",
         "server": "5445",
         "title": "IMG_0927",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9065713826",
         "isprimary": "0",
@@ -8150,14 +8150,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 5,
         "farm": "4",
         "id": "9063469915",
         "isprimary": "0",
         "secret": "fd567c3448",
         "server": "3685",
         "title": "IMG_0929",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8177,10 +8177,10 @@
         "secret": "84e23f0242",
         "server": "5452",
         "title": "IMG_0931",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9065643710",
         "isprimary": "0",
@@ -8220,7 +8220,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9063344625",
         "isprimary": "0",
@@ -8240,7 +8240,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9063307127",
         "isprimary": "0",
@@ -8250,17 +8250,17 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063284115",
         "isprimary": "0",
         "secret": "bf3793b14c",
         "server": "5500",
         "title": "IMG_0939",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "4",
         "id": "9065494696",
         "isprimary": "0",
@@ -8270,7 +8270,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9065475836",
         "isprimary": "0",
@@ -8280,7 +8280,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "6",
         "id": "9063235691",
         "isprimary": "0",
@@ -8307,10 +8307,10 @@
         "secret": "f45fee0e45",
         "server": "2811",
         "title": "IMG_0944",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9065419912",
         "isprimary": "0",
@@ -8327,7 +8327,7 @@
         "secret": "648d34a4ff",
         "server": "7416",
         "title": "IMG_0946",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8337,7 +8337,7 @@
         "secret": "600722b369",
         "server": "7317",
         "title": "IMG_0947",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -8350,7 +8350,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063118031",
         "isprimary": "0",
@@ -8360,14 +8360,14 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9065324946",
         "isprimary": "0",
         "secret": "65214f867a",
         "server": "5541",
         "title": "IMG_0950",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8380,7 +8380,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065295316",
         "isprimary": "0",
@@ -8390,14 +8390,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9063050975",
         "isprimary": "0",
         "secret": "4e4509d2b0",
         "server": "7396",
         "title": "IMG_0953",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8417,10 +8417,10 @@
         "secret": "648ba93962",
         "server": "5537",
         "title": "IMG_0955",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065229150",
         "isprimary": "0",
@@ -8450,7 +8450,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "8",
         "id": "9062957803",
         "isprimary": "0",
@@ -8460,14 +8460,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9065169968",
         "isprimary": "0",
         "secret": "0b1e2daa90",
         "server": "3825",
         "title": "IMG_0960",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -8487,7 +8487,7 @@
         "secret": "62880286ba",
         "server": "2866",
         "title": "IMG_0962",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -8497,10 +8497,10 @@
         "secret": "1f2f989729",
         "server": "5491",
         "title": "IMG_0963",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 1,
+        "down": 5,
         "farm": "3",
         "id": "9062868345",
         "isprimary": "0",
@@ -8537,7 +8537,7 @@
         "secret": "11df247ab9",
         "server": "2814",
         "title": "IMG_0967",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8547,7 +8547,7 @@
         "secret": "e82d45c7a6",
         "server": "5547",
         "title": "IMG_0968",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8570,7 +8570,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9062725521",
         "isprimary": "0",
@@ -8580,7 +8580,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9062712793",
         "isprimary": "0",
@@ -8600,7 +8600,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9064912778",
         "isprimary": "0",
@@ -8610,7 +8610,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9064898990",
         "isprimary": "0",
@@ -8620,7 +8620,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9064886904",
         "isprimary": "0",
@@ -8640,17 +8640,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062625475",
         "isprimary": "0",
         "secret": "3a93a65852",
         "server": "3760",
         "title": "IMG_0978",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "8",
         "id": "9064840702",
         "isprimary": "0",
@@ -8687,10 +8687,10 @@
         "secret": "66bf58f0e1",
         "server": "3739",
         "title": "IMG_0982",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064760540",
         "isprimary": "0",
@@ -8700,7 +8700,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064744516",
         "isprimary": "0",
@@ -8710,7 +8710,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062496633",
         "isprimary": "0",
@@ -8730,7 +8730,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064692808",
         "isprimary": "0",
@@ -8777,7 +8777,7 @@
         "secret": "b1d1cc1de2",
         "server": "2862",
         "title": "IMG_0990",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -8787,7 +8787,7 @@
         "secret": "e67c6a8cb3",
         "server": "7310",
         "title": "IMG_0992",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -8810,7 +8810,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062289111",
         "isprimary": "0",
@@ -8820,7 +8820,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062271341",
         "isprimary": "0",
@@ -8830,7 +8830,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064480376",
         "isprimary": "0",
@@ -8840,7 +8840,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9062232157",
         "isprimary": "0",
@@ -8880,14 +8880,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062151435",
         "isprimary": "0",
         "secret": "b70c7d6ef6",
         "server": "5532",
         "title": "IMG_1002",
-        "up": 1
+        "up": 3
     },
     {
         "down": 1,
@@ -8897,7 +8897,7 @@
         "secret": "5422d722d4",
         "server": "3833",
         "title": "IMG_1003",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8907,7 +8907,7 @@
         "secret": "b8de9b9360",
         "server": "3717",
         "title": "IMG_1004",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -8927,7 +8927,7 @@
         "secret": "ebc45ea3a6",
         "server": "5536",
         "title": "IMG_1006",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -8947,7 +8947,7 @@
         "secret": "fa09983373",
         "server": "3670",
         "title": "IMG_1008",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -8957,7 +8957,7 @@
         "secret": "ee2835103c",
         "server": "2822",
         "title": "IMG_1009",
-        "up": 4
+        "up": 5
     },
     {
         "down": 0,
@@ -8967,10 +8967,10 @@
         "secret": "f5ece95d5f",
         "server": "3790",
         "title": "IMG_1010",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9061966143",
         "isprimary": "0",
@@ -8990,7 +8990,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064162984",
         "isprimary": "0",
@@ -9007,10 +9007,10 @@
         "secret": "d179ee9c24",
         "server": "2852",
         "title": "IMG_1014",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064142396",
         "isprimary": "0",
@@ -9020,7 +9020,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064129422",
         "isprimary": "0",
@@ -9070,7 +9070,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066879046",
         "isprimary": "0",
@@ -9080,7 +9080,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066873708",
         "isprimary": "0",
@@ -9097,20 +9097,20 @@
         "secret": "bc828805b3",
         "server": "3739",
         "title": "IMG_1023",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9066862522",
         "isprimary": "0",
         "secret": "9a157eccc1",
         "server": "3683",
         "title": "IMG_1024",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066855312",
         "isprimary": "0",
@@ -9120,7 +9120,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066848674",
         "isprimary": "0",
@@ -9140,17 +9140,17 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066837254",
         "isprimary": "0",
         "secret": "b1a1d0c5fb",
         "server": "5543",
         "title": "IMG_1028",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9066830204",
         "isprimary": "0",
@@ -9160,7 +9160,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9064594761",
         "isprimary": "0",
@@ -9170,7 +9170,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066812692",
         "isprimary": "0",
@@ -9180,7 +9180,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 4,
         "farm": "8",
         "id": "9064574731",
         "isprimary": "0",
@@ -9190,7 +9190,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9064562933",
         "isprimary": "0",
@@ -9210,17 +9210,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066769932",
         "isprimary": "0",
         "secret": "65d11a7975",
         "server": "5546",
         "title": "IMG_1035",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064530875",
         "isprimary": "0",
@@ -9240,17 +9240,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064508011",
         "isprimary": "0",
         "secret": "5a95b74f54",
         "server": "3791",
         "title": "IMG_1038",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064495253",
         "isprimary": "0",
@@ -9267,7 +9267,7 @@
         "secret": "b525da6b0a",
         "server": "2809",
         "title": "IMG_1040",
-        "up": 0
+        "up": 3
     },
     {
         "down": 1,
@@ -9297,17 +9297,17 @@
         "secret": "de72efdd70",
         "server": "5449",
         "title": "IMG_1043",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064431679",
         "isprimary": "0",
         "secret": "02d72a807f",
         "server": "3757",
         "title": "IMG_1045",
-        "up": 1
+        "up": 3
     },
     {
         "down": 1,
@@ -9327,7 +9327,7 @@
         "secret": "c97202eac3",
         "server": "2811",
         "title": "IMG_1046",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -9350,7 +9350,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9066612784",
         "isprimary": "0",
@@ -9390,7 +9390,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9064357983",
         "isprimary": "0",
@@ -9407,7 +9407,7 @@
         "secret": "84dc2a65a5",
         "server": "7428",
         "title": "IMG_1054",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -9430,7 +9430,7 @@
         "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9064299579",
         "isprimary": "0",
@@ -9440,14 +9440,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066513212",
         "isprimary": "0",
         "secret": "f0529b53a5",
         "server": "2821",
         "title": "IMG_1058",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -9477,7 +9477,7 @@
         "secret": "4be5a20041",
         "server": "3834",
         "title": "IMG_1061",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9547,7 +9547,7 @@
         "secret": "ca5d437880",
         "server": "2839",
         "title": "IMG_1068",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9560,14 +9560,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066370404",
         "isprimary": "0",
         "secret": "c48e63236d",
         "server": "3671",
         "title": "IMG_1070",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9597,17 +9597,17 @@
         "secret": "56302d3127",
         "server": "5510",
         "title": "IMG_1073",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064081471",
         "isprimary": "0",
         "secret": "200f633a20",
         "server": "7337",
         "title": "IMG_1074",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -9627,7 +9627,7 @@
         "secret": "b7f14c00b7",
         "server": "7431",
         "title": "IMG_1076",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -9640,14 +9640,14 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066252802",
         "isprimary": "0",
         "secret": "6a3a544351",
         "server": "2858",
         "title": "IMG_1078",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -9670,17 +9670,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066224022",
         "isprimary": "0",
         "secret": "183d467821",
         "server": "2861",
         "title": "IMG_1081",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9066213700",
         "isprimary": "0",
@@ -9737,7 +9737,7 @@
         "secret": "68d08ba728",
         "server": "5333",
         "title": "IMG_1087",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9757,7 +9757,7 @@
         "secret": "dd27341aa8",
         "server": "2824",
         "title": "IMG_1089",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9767,7 +9767,7 @@
         "secret": "8c14d995b9",
         "server": "5350",
         "title": "IMG_1090",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9777,10 +9777,10 @@
         "secret": "89fbbb201d",
         "server": "7410",
         "title": "IMG_1091",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9063901615",
         "isprimary": "0",
@@ -9810,7 +9810,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066094908",
         "isprimary": "0",
@@ -9827,7 +9827,7 @@
         "secret": "ec2fb0690b",
         "server": "2837",
         "title": "IMG_1096",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9847,7 +9847,7 @@
         "secret": "79aa77be38",
         "server": "2842",
         "title": "IMG_1098",
-        "up": 0
+        "up": 3
     },
     {
         "down": 1,
@@ -9877,17 +9877,17 @@
         "secret": "c57ae8cae1",
         "server": "2846",
         "title": "IMG_1101",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066011076",
         "isprimary": "0",
         "secret": "d098f1c6da",
         "server": "7429",
         "title": "IMG_1102",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9907,10 +9907,10 @@
         "secret": "cbea813aba",
         "server": "3818",
         "title": "IMG_1104",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065970438",
         "isprimary": "0",
@@ -9927,7 +9927,7 @@
         "secret": "419c8c9626",
         "server": "7378",
         "title": "IMG_1106",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -9937,7 +9937,7 @@
         "secret": "613312286b",
         "server": "7379",
         "title": "IMG_1107",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -9947,7 +9947,7 @@
         "secret": "1abe0a3951",
         "server": "5487",
         "title": "IMG_1108",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -9957,7 +9957,7 @@
         "secret": "632932ca3d",
         "server": "5550",
         "title": "IMG_1110",
-        "up": 1
+        "up": 4
     },
     {
         "down": 0,
@@ -9967,7 +9967,7 @@
         "secret": "32b880cea9",
         "server": "3745",
         "title": "IMG_1109",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -9977,7 +9977,7 @@
         "secret": "941f74d073",
         "server": "3785",
         "title": "IMG_1111",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -9990,7 +9990,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065879462",
         "isprimary": "0",
@@ -10010,7 +10010,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9065858542",
         "isprimary": "0",
@@ -10020,7 +10020,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065848874",
         "isprimary": "0",
@@ -10037,17 +10037,17 @@
         "secret": "c5dc671d5e",
         "server": "5534",
         "title": "IMG_1117",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9065824704",
         "isprimary": "0",
         "secret": "e6c5209b23",
         "server": "3807",
         "title": "IMG_1118",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -10060,7 +10060,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065798732",
         "isprimary": "0",
@@ -10070,7 +10070,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "4",
         "id": "9063560451",
         "isprimary": "0",
@@ -10087,10 +10087,10 @@
         "secret": "10e7b281c6",
         "server": "5525",
         "title": "IMG_1122",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063535279",
         "isprimary": "0",
@@ -10117,7 +10117,7 @@
         "secret": "82626444fe",
         "server": "7368",
         "title": "IMG_1125",
-        "up": 1
+        "up": 3
     },
     {
         "down": 1,
@@ -10140,7 +10140,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063453189",
         "isprimary": "0",
@@ -10150,7 +10150,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9065660612",
         "isprimary": "0",
@@ -10160,7 +10160,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065646308",
         "isprimary": "0",
@@ -10170,7 +10170,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9065630706",
         "isprimary": "0",
@@ -10187,20 +10187,20 @@
         "secret": "935661622f",
         "server": "7441",
         "title": "IMG_1132",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9065597158",
         "isprimary": "0",
         "secret": "3354595463",
         "server": "2833",
         "title": "IMG_1133",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9065581020",
         "isprimary": "0",
@@ -10210,7 +10210,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "8",
         "id": "9065561294",
         "isprimary": "0",
@@ -10237,7 +10237,7 @@
         "secret": "53cdbe9947",
         "server": "7447",
         "title": "IMG_1137",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -10247,7 +10247,7 @@
         "secret": "c46d24d00d",
         "server": "3701",
         "title": "IMG_1138",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -10267,7 +10267,7 @@
         "secret": "955936d90f",
         "server": "7367",
         "title": "IMG_1140",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -10280,24 +10280,24 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063206177",
         "isprimary": "0",
         "secret": "bc38e5fba5",
         "server": "2867",
         "title": "IMG_1142",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9065413890",
         "isprimary": "0",
         "secret": "68851bae65",
         "server": "7368",
         "title": "IMG_1143",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -10307,7 +10307,7 @@
         "secret": "4d3dd130d2",
         "server": "7444",
         "title": "IMG_1144",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -10317,7 +10317,7 @@
         "secret": "d59d21f808",
         "server": "2805",
         "title": "IMG_1145",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -10327,7 +10327,7 @@
         "secret": "2d69d066c0",
         "server": "3708",
         "title": "IMG_1146",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -10340,7 +10340,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9065321360",
         "isprimary": "0",
@@ -10377,10 +10377,10 @@
         "secret": "14350ab05b",
         "server": "3736",
         "title": "IMG_1151",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9065250026",
         "isprimary": "0",
@@ -10390,7 +10390,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9065234262",
         "isprimary": "0",
@@ -10400,7 +10400,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9065218098",
         "isprimary": "0",
@@ -10417,7 +10417,7 @@
         "secret": "960401de0c",
         "server": "2819",
         "title": "IMG_1156",
-        "up": 0
+        "up": 1
     },
     {
         "down": 2,
@@ -10440,7 +10440,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9065161148",
         "isprimary": "0",
@@ -10460,7 +10460,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9065118812",
         "isprimary": "0",
@@ -10477,7 +10477,7 @@
         "secret": "32c2f48ee5",
         "server": "5525",
         "title": "IMG_1161",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -10490,7 +10490,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9065034594",
         "isprimary": "0",
@@ -10507,7 +10507,7 @@
         "secret": "3d8149514f",
         "server": "7393",
         "title": "IMG_1164",
-        "up": 0
+        "up": 2
     },
     {
         "down": 2,
@@ -10530,14 +10530,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064962710",
         "isprimary": "0",
         "secret": "50b4d628af",
         "server": "3833",
         "title": "IMG_1167",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -10547,7 +10547,7 @@
         "secret": "1aefc5a08f",
         "server": "3792",
         "title": "IMG_1168",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -10567,7 +10567,7 @@
         "secret": "e60a7ac021",
         "server": "7339",
         "title": "IMG_1170",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -10577,7 +10577,7 @@
         "secret": "bf73809e21",
         "server": "3804",
         "title": "IMG_1171",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -10587,7 +10587,7 @@
         "secret": "db298af056",
         "server": "2817",
         "title": "IMG_1172",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -10597,10 +10597,10 @@
         "secret": "14ebd3669c",
         "server": "3733",
         "title": "IMG_1173",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9062637481",
         "isprimary": "0",
@@ -10620,7 +10620,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062611173",
         "isprimary": "0",
@@ -10647,10 +10647,10 @@
         "secret": "4ef4a381f8",
         "server": "2885",
         "title": "IMG_1178",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062568277",
         "isprimary": "0",
@@ -10677,7 +10677,7 @@
         "secret": "9617d36595",
         "server": "3731",
         "title": "IMG_1181",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -10690,7 +10690,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9064734946",
         "isprimary": "0",
@@ -10710,7 +10710,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062466047",
         "isprimary": "0",
@@ -10730,14 +10730,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062431497",
         "isprimary": "0",
         "secret": "b70d9901e9",
         "server": "5539",
         "title": "IMG_1187",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -10760,17 +10760,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064611664",
         "isprimary": "0",
         "secret": "349c4e30fc",
         "server": "7324",
         "title": "IMG_1190",
-        "up": 2
+        "up": 4
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "6",
         "id": "9062370057",
         "isprimary": "0",
@@ -10780,7 +10780,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9064587548",
         "isprimary": "0",
@@ -10800,7 +10800,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9064556206",
         "isprimary": "0",
@@ -10847,10 +10847,10 @@
         "secret": "c24d7c9a5a",
         "server": "7307",
         "title": "IMG_1199",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064468096",
         "isprimary": "0",
@@ -10867,7 +10867,7 @@
         "secret": "4709c07bd9",
         "server": "5496",
         "title": "IMG_1200",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -10877,20 +10877,20 @@
         "secret": "7e31432b19",
         "server": "3666",
         "title": "IMG_1201",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9064399610",
         "isprimary": "0",
         "secret": "61dac60e72",
         "server": "3802",
         "title": "IMG_1202",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9064378558",
         "isprimary": "0",
@@ -10917,7 +10917,7 @@
         "secret": "3402f4f418",
         "server": "7433",
         "title": "IMG_1206",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -10927,7 +10927,7 @@
         "secret": "75fa3d6f39",
         "server": "7371",
         "title": "IMG_1205",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -10937,7 +10937,7 @@
         "secret": "a362813c5a",
         "server": "3708",
         "title": "IMG_1207",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -10947,17 +10947,17 @@
         "secret": "4c99f604ca",
         "server": "7454",
         "title": "IMG_1208",
-        "up": 1
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064231002",
         "isprimary": "0",
         "secret": "db09b27893",
         "server": "7416",
         "title": "IMG_1209",
-        "up": 0
+        "up": 3
     },
     {
         "down": 1,
@@ -10967,7 +10967,7 @@
         "secret": "c86c393a9b",
         "server": "7338",
         "title": "IMG_1210",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -10977,7 +10977,7 @@
         "secret": "9c8c9347f1",
         "server": "2821",
         "title": "IMG_1211",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11007,10 +11007,10 @@
         "secret": "93dcf712a3",
         "server": "3757",
         "title": "IMG_1214",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9064143120",
         "isprimary": "0",
@@ -11060,14 +11060,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064095648",
         "isprimary": "0",
         "secret": "27132c75a2",
         "server": "7301",
         "title": "IMG_1219",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11080,14 +11080,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066818576",
         "isprimary": "0",
         "secret": "0704973d50",
         "server": "3736",
         "title": "IMG_1222",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -11097,27 +11097,27 @@
         "secret": "54ddb7d7b2",
         "server": "7388",
         "title": "IMG_1223",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "4",
         "id": "9064577033",
         "isprimary": "0",
         "secret": "3afe17afa3",
         "server": "3712",
         "title": "IMG_1224",
-        "up": 1
+        "up": 4
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064557679",
         "isprimary": "0",
         "secret": "862528be0c",
         "server": "3668",
         "title": "IMG_1226",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11127,7 +11127,7 @@
         "secret": "71437ee110",
         "server": "3709",
         "title": "IMG_1225",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11137,7 +11137,7 @@
         "secret": "29f42e4c0e",
         "server": "2815",
         "title": "IMG_1227",
-        "up": 2
+        "up": 4
     },
     {
         "down": 0,
@@ -11147,7 +11147,7 @@
         "secret": "07db6c1cf6",
         "server": "3708",
         "title": "IMG_1228",
-        "up": 1
+        "up": 4
     },
     {
         "down": 1,
@@ -11157,7 +11157,7 @@
         "secret": "bfa66c66fb",
         "server": "7365",
         "title": "IMG_1229",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -11167,10 +11167,10 @@
         "secret": "1ba002e208",
         "server": "3727",
         "title": "IMG_1230",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9064516979",
         "isprimary": "0",
@@ -11187,7 +11187,7 @@
         "secret": "537d0482f0",
         "server": "5448",
         "title": "IMG_1232",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -11230,7 +11230,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064448583",
         "isprimary": "0",
@@ -11260,7 +11260,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9064418807",
         "isprimary": "0",
@@ -11270,7 +11270,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064410989",
         "isprimary": "0",
@@ -11290,14 +11290,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064387441",
         "isprimary": "0",
         "secret": "8bfb26637d",
         "server": "3715",
         "title": "IMG_1247",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11310,14 +11310,14 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9066595758",
         "isprimary": "0",
         "secret": "74e0c1cd06",
         "server": "5502",
         "title": "IMG_1249",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -11327,7 +11327,7 @@
         "secret": "6353994aa4",
         "server": "7438",
         "title": "IMG_1250",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11337,10 +11337,10 @@
         "secret": "cf5c0472d7",
         "server": "5497",
         "title": "IMG_1251",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066573244",
         "isprimary": "0",
@@ -11350,7 +11350,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064341043",
         "isprimary": "0",
@@ -11360,14 +11360,14 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9064333163",
         "isprimary": "0",
         "secret": "4a2a9485fb",
         "server": "5485",
         "title": "IMG_1254",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -11377,7 +11377,7 @@
         "secret": "34cd47110b",
         "server": "2853",
         "title": "IMG_1255",
-        "up": 0
+        "up": 2
     },
     {
         "down": 2,
@@ -11390,7 +11390,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066529982",
         "isprimary": "0",
@@ -11410,7 +11410,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9066521882",
         "isprimary": "0",
@@ -11450,7 +11450,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9066495432",
         "isprimary": "0",
@@ -11460,7 +11460,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066476676",
         "isprimary": "0",
@@ -11477,10 +11477,10 @@
         "secret": "40a9fe11f4",
         "server": "7452",
         "title": "IMG_1265",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064223715",
         "isprimary": "0",
@@ -11490,7 +11490,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9064232947",
         "isprimary": "0",
@@ -11500,7 +11500,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064215747",
         "isprimary": "0",
@@ -11510,7 +11510,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064208151",
         "isprimary": "0",
@@ -11530,7 +11530,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9064189497",
         "isprimary": "0",
@@ -11540,14 +11540,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064179809",
         "isprimary": "0",
         "secret": "2b917bf974",
         "server": "7341",
         "title": "IMG_1272",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -11560,7 +11560,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066385434",
         "isprimary": "0",
@@ -11570,7 +11570,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064146003",
         "isprimary": "0",
@@ -11580,7 +11580,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "6",
         "id": "9064126397",
         "isprimary": "0",
@@ -11590,14 +11590,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066335092",
         "isprimary": "0",
         "secret": "210d2a928d",
         "server": "5534",
         "title": "IMG_1277",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11610,7 +11610,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9066304796",
         "isprimary": "0",
@@ -11630,7 +11630,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9066293712",
         "isprimary": "0",
@@ -11640,7 +11640,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064057801",
         "isprimary": "0",
@@ -11660,7 +11660,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 5,
         "farm": "4",
         "id": "9066261590",
         "isprimary": "0",
@@ -11677,7 +11677,7 @@
         "secret": "647cdb88cd",
         "server": "2808",
         "title": "IMG_1285",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -11700,7 +11700,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066218702",
         "isprimary": "0",
@@ -11710,7 +11710,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9063981245",
         "isprimary": "0",
@@ -11730,7 +11730,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9063951169",
         "isprimary": "0",
@@ -11750,7 +11750,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "6",
         "id": "9063940137",
         "isprimary": "0",
@@ -11760,7 +11760,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 5,
         "farm": "3",
         "id": "9063929951",
         "isprimary": "0",
@@ -11770,7 +11770,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066148552",
         "isprimary": "0",
@@ -11800,7 +11800,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9063883009",
         "isprimary": "0",
@@ -11820,7 +11820,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "3",
         "id": "9063856865",
         "isprimary": "0",
@@ -11830,7 +11830,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 6,
         "farm": "3",
         "id": "9066071788",
         "isprimary": "0",
@@ -11850,7 +11850,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063822815",
         "isprimary": "0",
@@ -11870,7 +11870,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9066015998",
         "isprimary": "0",
@@ -11880,7 +11880,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063774911",
         "isprimary": "0",
@@ -11897,7 +11897,7 @@
         "secret": "dd634bc9c0",
         "server": "2871",
         "title": "IMG_1307",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -11930,7 +11930,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063695403",
         "isprimary": "0",
@@ -11957,10 +11957,10 @@
         "secret": "158743aef0",
         "server": "5465",
         "title": "IMG_1312",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9063645879",
         "isprimary": "0",
@@ -11970,7 +11970,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "4",
         "id": "9063629471",
         "isprimary": "0",
@@ -11997,7 +11997,7 @@
         "secret": "c613fe73e2",
         "server": "3775",
         "title": "IMG_1317",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12007,17 +12007,17 @@
         "secret": "e6ae5b0dd4",
         "server": "3755",
         "title": "IMG_1318",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065783116",
         "isprimary": "0",
         "secret": "e4d345d294",
         "server": "3712",
         "title": "IMG_1319",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -12027,10 +12027,10 @@
         "secret": "af699ec598",
         "server": "7386",
         "title": "IMG_1320",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065752238",
         "isprimary": "0",
@@ -12050,7 +12050,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9063494597",
         "isprimary": "0",
@@ -12070,7 +12070,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 4,
         "farm": "8",
         "id": "9065687212",
         "isprimary": "0",
@@ -12080,7 +12080,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065665662",
         "isprimary": "0",
@@ -12090,7 +12090,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065649524",
         "isprimary": "0",
@@ -12120,7 +12120,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063383977",
         "isprimary": "0",
@@ -12140,7 +12140,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9065586016",
         "isprimary": "0",
@@ -12150,7 +12150,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9063348339",
         "isprimary": "0",
@@ -12170,7 +12170,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065554102",
         "isprimary": "0",
@@ -12210,7 +12210,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "8",
         "id": "9063271369",
         "isprimary": "0",
@@ -12220,7 +12220,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9065485838",
         "isprimary": "0",
@@ -12237,7 +12237,7 @@
         "secret": "273d9495ed",
         "server": "5490",
         "title": "IMG_1341",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -12247,7 +12247,7 @@
         "secret": "d2a9313ced",
         "server": "7345",
         "title": "IMG_1342",
-        "up": 2
+        "up": 3
     },
     {
         "down": 0,
@@ -12280,7 +12280,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065409906",
         "isprimary": "0",
@@ -12290,7 +12290,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9063164547",
         "isprimary": "0",
@@ -12310,7 +12310,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "6",
         "id": "9065354898",
         "isprimary": "0",
@@ -12320,7 +12320,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065338508",
         "isprimary": "0",
@@ -12330,7 +12330,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9065319924",
         "isprimary": "0",
@@ -12350,7 +12350,7 @@
         "up": 2
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9065287252",
         "isprimary": "0",
@@ -12370,7 +12370,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063031755",
         "isprimary": "0",
@@ -12400,24 +12400,24 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9065212788",
         "isprimary": "0",
         "secret": "41fc25a578",
         "server": "5486",
         "title": "IMG_1358",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062970781",
         "isprimary": "0",
         "secret": "81e8a2151e",
         "server": "5458",
         "title": "IMG_1359",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12437,10 +12437,10 @@
         "secret": "278231937c",
         "server": "3714",
         "title": "IMG_1361",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9065151494",
         "isprimary": "0",
@@ -12457,7 +12457,7 @@
         "secret": "63fa94399a",
         "server": "5474",
         "title": "IMG_1363",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12467,7 +12467,7 @@
         "secret": "4c2881a573",
         "server": "7357",
         "title": "IMG_1364",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12480,14 +12480,14 @@
         "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9065084796",
         "isprimary": "0",
         "secret": "35ceab77cb",
         "server": "7432",
         "title": "IMG_1366",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -12500,14 +12500,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065046162",
         "isprimary": "0",
         "secret": "14eb12eed3",
         "server": "3693",
         "title": "IMG_1368",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -12527,7 +12527,7 @@
         "secret": "547a9e8363",
         "server": "2813",
         "title": "IMG_1370",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -12537,7 +12537,7 @@
         "secret": "d740396f42",
         "server": "3721",
         "title": "IMG_1371",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12547,7 +12547,7 @@
         "secret": "678d87de18",
         "server": "2821",
         "title": "IMG_1372",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12560,7 +12560,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062709029",
         "isprimary": "0",
@@ -12577,7 +12577,7 @@
         "secret": "3055219a30",
         "server": "3726",
         "title": "IMG_1375",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12597,7 +12597,7 @@
         "secret": "5b4c9574c6",
         "server": "5338",
         "title": "IMG_1377",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -12617,7 +12617,7 @@
         "secret": "d7cc689a4f",
         "server": "3832",
         "title": "IMG_1379",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12627,20 +12627,20 @@
         "secret": "2c03cc7011",
         "server": "5549",
         "title": "IMG_1380",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064789512",
         "isprimary": "0",
         "secret": "fedbe75bba",
         "server": "7420",
         "title": "IMG_1381",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "6",
         "id": "9064762934",
         "isprimary": "0",
@@ -12650,7 +12650,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9062519961",
         "isprimary": "0",
@@ -12680,7 +12680,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "3",
         "id": "9064707464",
         "isprimary": "0",
@@ -12690,7 +12690,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "3",
         "id": "9064693372",
         "isprimary": "0",
@@ -12710,7 +12710,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062433493",
         "isprimary": "0",
@@ -12727,7 +12727,7 @@
         "secret": "80df70d09d",
         "server": "5335",
         "title": "IMG_1390",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -12737,7 +12737,7 @@
         "secret": "83191c560b",
         "server": "7322",
         "title": "IMG_1391",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -12747,7 +12747,7 @@
         "secret": "016b12c373",
         "server": "2854",
         "title": "IMG_1392",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -12757,7 +12757,7 @@
         "secret": "e3d2e9d48a",
         "server": "5343",
         "title": "IMG_1393",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12787,7 +12787,7 @@
         "secret": "64389fe3d9",
         "server": "2828",
         "title": "IMG_1397",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -12827,7 +12827,7 @@
         "secret": "441f4e49a9",
         "server": "2885",
         "title": "IMG_1400",
-        "up": 1
+        "up": 2
     },
     {
         "down": 0,
@@ -12840,14 +12840,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062144653",
         "isprimary": "0",
         "secret": "ac710d9024",
         "server": "7383",
         "title": "IMG_1402",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -12867,20 +12867,20 @@
         "secret": "c5c371c667",
         "server": "3798",
         "title": "IMG_1404",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062093791",
         "isprimary": "0",
         "secret": "f63f1fa392",
         "server": "5481",
         "title": "IMG_1405",
-        "up": 0
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9062077607",
         "isprimary": "0",
@@ -12890,17 +12890,17 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9064287656",
         "isprimary": "0",
         "secret": "64ce2af2a2",
         "server": "3778",
         "title": "IMG_1407",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "4",
         "id": "9062037143",
         "isprimary": "0",
@@ -12917,7 +12917,7 @@
         "secret": "8a74461f2c",
         "server": "5443",
         "title": "IMG_1409",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -12937,7 +12937,7 @@
         "secret": "f3f7ef43ff",
         "server": "3665",
         "title": "IMG_1411",
-        "up": 2
+        "up": 4
     },
     {
         "down": 0,
@@ -12947,7 +12947,7 @@
         "secret": "81e945bdc5",
         "server": "2808",
         "title": "IMG_1412",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12957,7 +12957,7 @@
         "secret": "09fb9c7a8d",
         "server": "5347",
         "title": "IMG_1414",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -12967,7 +12967,7 @@
         "secret": "f268e6c97b",
         "server": "3821",
         "title": "IMG_1413",
-        "up": 1
+        "up": 4
     },
     {
         "down": 1,
@@ -12977,7 +12977,7 @@
         "secret": "a7817f93b0",
         "server": "3786",
         "title": "IMG_1415",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -12997,7 +12997,7 @@
         "secret": "0b3c989a24",
         "server": "2878",
         "title": "IMG_1417",
-        "up": 1
+        "up": 2
     },
     {
         "down": 1,
@@ -13007,7 +13007,7 @@
         "secret": "b9276b2d16",
         "server": "3811",
         "title": "IMG_1418",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -13020,14 +13020,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064091134",
         "isprimary": "0",
         "secret": "b52cc76e51",
         "server": "3791",
         "title": "IMG_1420",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13040,14 +13040,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9066133942",
         "isprimary": "0",
         "secret": "ff8df2ea7c",
         "server": "7444",
         "title": "IMG_1421",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13060,7 +13060,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9063857713",
         "isprimary": "0",
@@ -13070,7 +13070,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9066069616",
         "isprimary": "0",
@@ -13090,7 +13090,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9063804889",
         "isprimary": "0",
@@ -13100,7 +13100,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "6",
         "id": "9066007714",
         "isprimary": "0",
@@ -13110,7 +13110,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9063759879",
         "isprimary": "0",
@@ -13157,7 +13157,7 @@
         "secret": "0fa968f701",
         "server": "3722",
         "title": "IMG_1433",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -13167,7 +13167,7 @@
         "secret": "0aa2447162",
         "server": "3768",
         "title": "IMG_1434",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -13177,7 +13177,7 @@
         "secret": "0fe3a71d5a",
         "server": "7413",
         "title": "IMG_1435",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -13187,10 +13187,10 @@
         "secret": "6f2bf65b73",
         "server": "2864",
         "title": "IMG_1436",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063619191",
         "isprimary": "0",
@@ -13220,7 +13220,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063581005",
         "isprimary": "0",
@@ -13230,7 +13230,7 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065790950",
         "isprimary": "0",
@@ -13240,7 +13240,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "3",
         "id": "9063551775",
         "isprimary": "0",
@@ -13250,7 +13250,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 3,
         "farm": "8",
         "id": "9065764860",
         "isprimary": "0",
@@ -13260,7 +13260,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9065739550",
         "isprimary": "0",
@@ -13280,7 +13280,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9063475349",
         "isprimary": "0",
@@ -13297,7 +13297,7 @@
         "secret": "4150fb1960",
         "server": "5472",
         "title": "IMG_1447",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -13307,7 +13307,7 @@
         "secret": "a22031d09f",
         "server": "2833",
         "title": "IMG_1448",
-        "up": 1
+        "up": 3
     },
     {
         "down": 0,
@@ -13327,7 +13327,7 @@
         "secret": "0ea1d94751",
         "server": "5490",
         "title": "IMG_1450",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13390,7 +13390,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9063256225",
         "isprimary": "0",
@@ -13420,7 +13420,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9065430308",
         "isprimary": "0",
@@ -13430,7 +13430,7 @@
         "up": 1
     },
     {
-        "down": 1,
+        "down": 3,
         "farm": "3",
         "id": "9063166093",
         "isprimary": "0",
@@ -13440,7 +13440,7 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9065370352",
         "isprimary": "0",
@@ -13470,7 +13470,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9064797767",
         "isprimary": "0",
@@ -13490,7 +13490,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9063059097",
         "isprimary": "0",
@@ -13510,7 +13510,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 4,
         "farm": "6",
         "id": "9063017797",
         "isprimary": "0",
@@ -13550,7 +13550,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "6",
         "id": "9062931885",
         "isprimary": "0",
@@ -13560,7 +13560,7 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9065135714",
         "isprimary": "0",
@@ -13570,17 +13570,17 @@
         "up": 0
     },
     {
-        "down": 2,
+        "down": 3,
         "farm": "8",
         "id": "9062871689",
         "isprimary": "0",
         "secret": "cf7750861a",
         "server": "7310",
         "title": "IMG_1476",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "8",
         "id": "9062888721",
         "isprimary": "0",
@@ -13600,14 +13600,14 @@
         "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9065065920",
         "isprimary": "0",
         "secret": "01224ce567",
         "server": "3794",
         "title": "IMG_1478",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13617,7 +13617,7 @@
         "secret": "427f555158",
         "server": "5475",
         "title": "IMG_1479",
-        "up": 0
+        "up": 2
     },
     {
         "down": 0,
@@ -13627,10 +13627,10 @@
         "secret": "6d0dddd40b",
         "server": "3779",
         "title": "IMG_1480",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9065009242",
         "isprimary": "0",
@@ -13647,7 +13647,7 @@
         "secret": "87a36a676b",
         "server": "7372",
         "title": "IMG_1482",
-        "up": 1
+        "up": 3
     },
     {
         "down": 1,
@@ -13667,10 +13667,10 @@
         "secret": "a66bd3dff7",
         "server": "7292",
         "title": "IMG_1484",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064941860",
         "isprimary": "0",
@@ -13717,7 +13717,7 @@
         "secret": "2a4fc72c50",
         "server": "7382",
         "title": "IMG_1489",
-        "up": 0
+        "up": 3
     },
     {
         "down": 0,
@@ -13737,17 +13737,17 @@
         "secret": "b44278af36",
         "server": "2869",
         "title": "IMG_1491",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9062588981",
         "isprimary": "0",
         "secret": "8287a1a8f9",
         "server": "5511",
         "title": "IMG_1492",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13787,7 +13787,7 @@
         "secret": "906a10245c",
         "server": "5323",
         "title": "IMG_1496",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -13817,10 +13817,10 @@
         "secret": "262e607b88",
         "server": "2855",
         "title": "IMG_1499",
-        "up": 2
+        "up": 3
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "6",
         "id": "9064654094",
         "isprimary": "0",
@@ -13830,7 +13830,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "6",
         "id": "9064622040",
         "isprimary": "0",
@@ -13847,17 +13847,17 @@
         "secret": "ffcfb1ed03",
         "server": "2831",
         "title": "IMG_1501",
-        "up": 1
+        "up": 2
     },
     {
-        "down": 2,
+        "down": 4,
         "farm": "4",
         "id": "9062371547",
         "isprimary": "0",
         "secret": "36b571453a",
         "server": "3695",
         "title": "IMG_1503",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -13870,7 +13870,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062326205",
         "isprimary": "0",
@@ -13887,10 +13887,10 @@
         "secret": "a53dd54995",
         "server": "3779",
         "title": "IMG_1506",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "4",
         "id": "9064521560",
         "isprimary": "0",
@@ -13907,10 +13907,10 @@
         "secret": "3908149f59",
         "server": "2874",
         "title": "IMG_1508",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064478442",
         "isprimary": "0",
@@ -13927,10 +13927,10 @@
         "secret": "5bc3664a72",
         "server": "3796",
         "title": "IMG_1510",
-        "up": 0
+        "up": 2
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9062203829",
         "isprimary": "0",
@@ -13940,7 +13940,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "3",
         "id": "9062179305",
         "isprimary": "0",
@@ -13950,7 +13950,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9064385048",
         "isprimary": "0",
@@ -13960,14 +13960,14 @@
         "up": 0
     },
     {
-        "down": 1,
+        "down": 2,
         "farm": "4",
         "id": "9062130761",
         "isprimary": "0",
         "secret": "1d09bb53d7",
         "server": "3744",
         "title": "IMG_1514",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,
@@ -13980,7 +13980,7 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9062086567",
         "isprimary": "0",
@@ -13990,14 +13990,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 2,
         "farm": "3",
         "id": "9064293296",
         "isprimary": "0",
         "secret": "fd0cc16ef4",
         "server": "2870",
         "title": "IMG_1517",
-        "up": 0
+        "up": 1
     },
     {
         "down": 1,
@@ -14027,17 +14027,17 @@
         "secret": "474ac998a1",
         "server": "3787",
         "title": "IMG_1521",
-        "up": 0
+        "up": 1
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "8",
         "id": "9064214044",
         "isprimary": "0",
         "secret": "fb7a50811b",
         "server": "7354",
         "title": "IMG_1520",
-        "up": 0
+        "up": 2
     },
     {
         "down": 1,
@@ -14080,14 +14080,14 @@
         "up": 0
     },
     {
-        "down": 0,
+        "down": 1,
         "farm": "4",
         "id": "9061887555",
         "isprimary": "0",
         "secret": "f3c163839e",
         "server": "3800",
         "title": "IMG_1526",
-        "up": 0
+        "up": 1
     },
     {
         "down": 0,

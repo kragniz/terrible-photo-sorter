@@ -40,7 +40,7 @@ body {{
         <form name="one" action="" method="POST">
             <input type="hidden" name="image" value="{oneid}">
             <input type="hidden" name="downimage" value="{twoid}">
-            <input type="image" src="{image1}" name="image">
+            <input type="image" src="{image_one}" name="image">
         </form>
     </div>
 
@@ -48,13 +48,13 @@ body {{
         <form name="two" action="" method="POST">
             <input type="hidden" name="image" value="{twoid}">
             <input type="hidden" name="downimage" value="{oneid}">
-            <input type="image" src="{image2}" name="image">
+            <input type="image" src="{image_two}" name="image">
         </form>
     </div>
 </div>
 
-</html>'''.format(image1 = photo_url(photos[imageOne]),
-                  image2 = photo_url(photos[imageTwo]),
+</html>'''.format(image_one = photo_url(photos[imageOne]),
+                  image_two = photo_url(photos[imageTwo]),
                   oneid = imageOne,
                   twoid = imageTwo)
 
@@ -72,7 +72,7 @@ class Ranks(object):
     def GET(self):
         def div(a, b):
             if b == 0:
-                return a
+                return a * 2
             else:
                 return a / float(b)
 
@@ -90,13 +90,40 @@ class Ranks(object):
 body {
     background-color:#050505;
   }
+
+.box-thing {
+  position: relative;
+  background: #050505;
+  padding: 10px;
+  float: left;
+  height: 240px;
+  width: 240px;
+}
+
+img {
+vertical-align:top;
+}
+
+.score {
+  position:absolute;
+  top:20px;
+  left:20px;
+  font-size: 2em;
+  background: #AAAAAA;
+  font-family: monospace;
+}
 </style>
 '''
         for photo in sortedranked:
-            html += '    <a href=\
-"http://www.flickr.com/photos/96822206@N03/{imageid}">\
-<img src="{thumb}"></a>\n'.format(imageid = photo['id'],
-                                thumb = photo_url(photo, size='m'))
+            html += '''
+    <div class="box-thing">
+        <a href="http://www.flickr.com/photos/96822206@N03/{imageid}"><img src="{thumb}"/></a>
+        <div class="score">
+            {score}
+        </div>
+    </div>'''.format(imageid = photo['id'],
+           thumb = photo_url(photo, size='m'),
+           score = photo['score'])
         return html + '</html>'
 
 

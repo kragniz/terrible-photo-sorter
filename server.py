@@ -70,20 +70,12 @@ body {{
 
 class Ranks(object):
     def GET(self):
-        def div(a, b):
-            if b == 0:
-                return a * 2
-            else:
-                return a / float(b)
-
         p = json.load(open('photos.db'))
         ranked = []
-
         for i, photo in enumerate(p):
-            score = div(photo['up'], photo['down'])
+            score = photo['up'] - photo['down']
             photo['score'] = score
-            if score > 0:
-                ranked += [photo]
+            ranked += [photo]
         sortedranked = sorted(ranked, key=itemgetter('score'), reverse=True)
         html = '''<html>
 <style type="text/css">
